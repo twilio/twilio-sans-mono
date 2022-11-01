@@ -41,6 +41,7 @@ In `settings.json`:
 
 ```json
 "editor.fontFamily": "Twilio Sans Mono",
+"editor.fontLigatures": true,
 ```
 
 _Note: If you’d like to see instructions for your favorite editor and it's not already included, please feel free to submit a Pull Request._
