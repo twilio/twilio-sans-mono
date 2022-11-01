@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="119" y="0" type="line"/>
+			<point x="406" y="0" type="line"/>
+			<point x="413" y="58" type="line"/>
+			<point x="227" y="58" type="line"/>
+			<point x="266" y="82" type="line" smooth="yes"/>
+			<point x="357" y="138"/>
+			<point x="438" y="200"/>
+			<point x="438" y="297" type="curve" smooth="yes"/>
+			<point x="438" y="373"/>
+			<point x="392" y="418"/>
+			<point x="303" y="418" type="curve" smooth="yes"/>
+			<point x="249" y="418"/>
+			<point x="203" y="399"/>
+			<point x="173" y="377" type="curve"/>
+			<point x="163" y="314" type="line"/>
+			<point x="202" y="342"/>
+			<point x="245" y="362"/>
+			<point x="289" y="362" type="curve" smooth="yes"/>
+			<point x="345" y="362"/>
+			<point x="370" y="334"/>
+			<point x="370" y="287" type="curve" smooth="yes"/>
+			<point x="370" y="218"/>
+			<point x="303" y="169"/>
+			<point x="208" y="107" type="curve" smooth="yes"/>
+			<point x="126" y="51" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="2">
+	<unicode hex="00A5"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="76" y="185" type="line"/>
+			<point x="242" y="185" type="line"/>
+			<point x="216" y="0" type="line"/>
+			<point x="302" y="0" type="line"/>
+			<point x="328" y="185" type="line"/>
+			<point x="495" y="185" type="line"/>
+			<point x="503" y="243" type="line"/>
+			<point x="343" y="243" type="line"/>
+			<point x="390" y="316" type="line"/>
+			<point x="513" y="316" type="line"/>
+			<point x="521" y="375" type="line"/>
+			<point x="428" y="375" type="line"/>
+			<point x="628" y="684" type="line"/>
+			<point x="533" y="684" type="line"/>
+			<point x="304" y="317" type="line"/>
+			<point x="182" y="684" type="line"/>
+			<point x="90" y="684" type="line"/>
+			<point x="197" y="375" type="line"/>
+			<point x="102" y="375" type="line"/>
+			<point x="94" y="316" type="line"/>
+			<point x="218" y="316" type="line"/>
+			<point x="243" y="243" type="line"/>
+			<point x="84" y="243" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>Y</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Y</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Y</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

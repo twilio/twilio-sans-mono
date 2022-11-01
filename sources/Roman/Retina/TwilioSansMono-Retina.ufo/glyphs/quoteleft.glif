@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="2">
+	<unicode hex="2018"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="335" y="465" type="line"/>
+			<point x="388" y="750" type="line"/>
+			<point x="324" y="750" type="line"/>
+			<point x="213" y="465" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+			<string>==|comma</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==|comma</string>
+		</dict>
+	</lib>
+</glyph>

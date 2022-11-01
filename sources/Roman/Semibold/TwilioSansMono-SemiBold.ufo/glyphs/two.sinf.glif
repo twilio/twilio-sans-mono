@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.sinf" format="2">
+	<advance width="600"/>
+	<outline>
+		<component base="two.den" yOffset="-90"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>two.den</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>two.den</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>two.den</string>
+			<key>public.markColor</key>
+			<string>0,0.9811,0.5737,1</string>
+		</dict>
+	</lib>
+</glyph>

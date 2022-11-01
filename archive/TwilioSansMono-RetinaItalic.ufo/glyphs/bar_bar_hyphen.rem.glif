@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar_bar_hyphen.rem" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-618" y="-55" type="line"/>
+			<point x="-530" y="-55" type="line"/>
+			<point x="-484" y="271" type="line"/>
+			<point x="430" y="271" type="line"/>
+			<point x="442" y="356" type="line"/>
+			<point x="-472" y="356" type="line"/>
+			<point x="-426" y="684" type="line"/>
+			<point x="-514" y="684" type="line"/>
+		</contour>
+		<contour>
+			<point x="-1001" y="-55" type="line"/>
+			<point x="-913" y="-55" type="line"/>
+			<point x="-809" y="684" type="line"/>
+			<point x="-897" y="684" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

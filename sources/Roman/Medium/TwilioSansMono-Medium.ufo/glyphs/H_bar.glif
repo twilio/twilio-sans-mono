@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+	<unicode hex="0126"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="68" y="0" type="line"/>
+			<point x="180" y="0" type="line"/>
+			<point x="180" y="288" type="line"/>
+			<point x="420" y="288" type="line"/>
+			<point x="420" y="0" type="line"/>
+			<point x="532" y="0" type="line"/>
+			<point x="532" y="489" type="line"/>
+			<point x="600" y="489" type="line"/>
+			<point x="600" y="560" type="line"/>
+			<point x="532" y="560" type="line"/>
+			<point x="532" y="684" type="line"/>
+			<point x="420" y="684" type="line"/>
+			<point x="420" y="560" type="line"/>
+			<point x="180" y="560" type="line"/>
+			<point x="180" y="684" type="line"/>
+			<point x="68" y="684" type="line"/>
+			<point x="68" y="560" type="line"/>
+			<point x="0" y="560" type="line"/>
+			<point x="0" y="489" type="line"/>
+			<point x="68" y="489" type="line"/>
+		</contour>
+		<contour>
+			<point x="180" y="382" type="line"/>
+			<point x="180" y="489" type="line"/>
+			<point x="420" y="489" type="line"/>
+			<point x="420" y="382" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="center" x="300" y="528"/>
+	<anchor name="bottom" x="290" y="0"/>
+	<anchor name="top" x="300" y="684"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>strokelong</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

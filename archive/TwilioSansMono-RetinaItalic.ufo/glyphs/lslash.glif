@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="2">
+	<unicode hex="0142"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="37" y="0" type="line"/>
+			<point x="497" y="0" type="line"/>
+			<point x="508" y="76" type="line"/>
+			<point x="329" y="76" type="line"/>
+			<point x="370" y="357" type="line"/>
+			<point x="544" y="421" type="line"/>
+			<point x="553" y="495" type="line"/>
+			<point x="380" y="432" type="line"/>
+			<point x="426" y="750" type="line"/>
+			<point x="145" y="750" type="line"/>
+			<point x="134" y="674" type="line"/>
+			<point x="323" y="674" type="line"/>
+			<point x="283" y="396" type="line"/>
+			<point x="109" y="333" type="line"/>
+			<point x="99" y="259" type="line"/>
+			<point x="272" y="322" type="line"/>
+			<point x="236" y="76" type="line"/>
+			<point x="49" y="76" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen_bar.rem" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="302" y="684" type="line"/>
+			<point x="259" y="380" type="line"/>
+			<point x="-423" y="380" type="line"/>
+			<point x="-442" y="248" type="line"/>
+			<point x="240" y="248" type="line"/>
+			<point x="198" y="-56" type="line"/>
+			<point x="335" y="-56" type="line"/>
+			<point x="439" y="684" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhungarumlaut" format="2">
+	<unicode hex="0170"/>
+	<advance width="600"/>
+	<outline>
+		<component base="U"/>
+		<component base="hungarumlaut.cap" xOffset="42"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.9811,0.5737,1</string>
+		</dict>
+	</lib>
+</glyph>

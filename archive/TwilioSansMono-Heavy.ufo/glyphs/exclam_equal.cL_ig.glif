@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam_equal.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-450" y="82" type="line"/>
+			<point x="-209" y="82" type="line"/>
+			<point x="-312" y="-82" type="line"/>
+			<point x="-144" y="-82" type="line"/>
+			<point x="-41" y="82" type="line"/>
+			<point x="450" y="82" type="line"/>
+			<point x="450" y="242" type="line"/>
+			<point x="60" y="242" type="line"/>
+			<point x="105" y="314" type="line"/>
+			<point x="450" y="314" type="line"/>
+			<point x="450" y="474" type="line"/>
+			<point x="206" y="474" type="line"/>
+			<point x="312" y="642" type="line"/>
+			<point x="144" y="642" type="line"/>
+			<point x="38" y="474" type="line"/>
+			<point x="-450" y="474" type="line"/>
+			<point x="-450" y="314" type="line"/>
+			<point x="-63" y="314" type="line"/>
+			<point x="-108" y="242" type="line"/>
+			<point x="-450" y="242" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 14:57:24 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

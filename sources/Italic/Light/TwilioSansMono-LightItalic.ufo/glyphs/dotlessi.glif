@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="2">
+	<unicode hex="0131"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="56" y="0" type="line"/>
+			<point x="498" y="0" type="line"/>
+			<point x="506" y="48" type="line"/>
+			<point x="315" y="48" type="line"/>
+			<point x="382" y="523" type="line"/>
+			<point x="130" y="523" type="line"/>
+			<point x="123" y="475" type="line"/>
+			<point x="321" y="475" type="line"/>
+			<point x="261" y="48" type="line"/>
+			<point x="63" y="48" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="ogonek" x="498" y="0"/>
+	<anchor name="top" x="355" y="523"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="2">
+	<unicode hex="005A"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="23" y="0" type="line"/>
+			<point x="503" y="0" type="line"/>
+			<point x="514" y="80" type="line"/>
+			<point x="155" y="80" type="line"/>
+			<point x="586" y="605" type="line"/>
+			<point x="598" y="684" type="line"/>
+			<point x="136" y="684" type="line"/>
+			<point x="124" y="605" type="line"/>
+			<point x="477" y="605" type="line"/>
+			<point x="34" y="73" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="261" y="0"/>
+	<anchor name="top" x="366" y="684"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>com.typemytype.robofont.guideline.showMeasurements.usWARuHVRO</key>
+			<integer>1</integer>
+		</dict>
+	</lib>
+</glyph>

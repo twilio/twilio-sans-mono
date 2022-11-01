@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.cap" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="80" y="741" type="line"/>
+			<point x="242" y="741" type="line"/>
+			<point x="299" y="818" type="line"/>
+			<point x="356" y="741" type="line"/>
+			<point x="519" y="741" type="line"/>
+			<point x="404" y="884" type="line"/>
+			<point x="194" y="884" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="300" y="684"/>
+	<guideline x="195" y="985" angle="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 15:18:32 +0000</string>
+		</dict>
+	</lib>
+</glyph>

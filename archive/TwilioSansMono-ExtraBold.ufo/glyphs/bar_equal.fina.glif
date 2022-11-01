@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar_equal.fina" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="0" y="131" type="line"/>
+			<point x="332" y="131" type="line"/>
+			<point x="332" y="-55" type="line"/>
+			<point x="488" y="-55" type="line"/>
+			<point x="488" y="684" type="line"/>
+			<point x="332" y="684" type="line"/>
+			<point x="332" y="498" type="line"/>
+			<point x="0" y="498" type="line"/>
+			<point x="0" y="359" type="line"/>
+			<point x="332" y="359" type="line"/>
+			<point x="332" y="270" type="line"/>
+			<point x="0" y="270" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

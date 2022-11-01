@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon_alt" format="2">
+	<advance width="600"/>
+	<outline>
+		<component base="period" xOffset="53" yOffset="375"/>
+		<component base="period" xOffset="12" yOffset="86"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.9811,0.5737,1</string>
+		</dict>
+	</lib>
+</glyph>

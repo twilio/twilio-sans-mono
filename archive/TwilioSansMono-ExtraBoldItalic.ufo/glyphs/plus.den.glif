@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="135" y="234" type="line"/>
+			<point x="123" y="147" type="line"/>
+			<point x="238" y="147" type="line"/>
+			<point x="221" y="27" type="line"/>
+			<point x="314" y="27" type="line"/>
+			<point x="331" y="147" type="line"/>
+			<point x="444" y="147" type="line"/>
+			<point x="457" y="234" type="line"/>
+			<point x="343" y="234" type="line"/>
+			<point x="359" y="353" type="line"/>
+			<point x="266" y="353" type="line"/>
+			<point x="250" y="234" type="line"/>
+		</contour>
+	</outline>
+</glyph>

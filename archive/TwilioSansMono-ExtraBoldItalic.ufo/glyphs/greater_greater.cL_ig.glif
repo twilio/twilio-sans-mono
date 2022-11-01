@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater_greater.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-553" y="9" type="line"/>
+			<point x="-51" y="201" type="line"/>
+			<point x="-25" y="385" type="line"/>
+			<point x="-473" y="578" type="line"/>
+			<point x="-494" y="424" type="line"/>
+			<point x="-174" y="296" type="line"/>
+			<point x="-530" y="172" type="line"/>
+		</contour>
+		<contour>
+			<point x="17" y="9" type="line"/>
+			<point x="519" y="201" type="line"/>
+			<point x="545" y="385" type="line"/>
+			<point x="97" y="578" type="line"/>
+			<point x="76" y="424" type="line"/>
+			<point x="396" y="296" type="line"/>
+			<point x="40" y="172" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

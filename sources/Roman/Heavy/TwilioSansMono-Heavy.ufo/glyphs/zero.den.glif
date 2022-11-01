@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="300" y="-8" type="curve" smooth="yes"/>
+			<point x="417" y="-8"/>
+			<point x="480" y="62"/>
+			<point x="480" y="205" type="curve" smooth="yes"/>
+			<point x="480" y="346"/>
+			<point x="412" y="418"/>
+			<point x="301" y="418" type="curve" smooth="yes"/>
+			<point x="188" y="418"/>
+			<point x="120" y="346"/>
+			<point x="120" y="205" type="curve" smooth="yes"/>
+			<point x="120" y="63"/>
+			<point x="182" y="-8"/>
+		</contour>
+		<contour>
+			<point x="301" y="93" type="curve" smooth="yes"/>
+			<point x="265" y="93"/>
+			<point x="249" y="117"/>
+			<point x="249" y="205" type="curve" smooth="yes"/>
+			<point x="249" y="294"/>
+			<point x="266" y="318"/>
+			<point x="301" y="318" type="curve" smooth="yes"/>
+			<point x="336" y="318"/>
+			<point x="351" y="291"/>
+			<point x="351" y="205" type="curve" smooth="yes"/>
+			<point x="351" y="118"/>
+			<point x="337" y="93"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 15:18:32 +0000</string>
+		</dict>
+	</lib>
+</glyph>

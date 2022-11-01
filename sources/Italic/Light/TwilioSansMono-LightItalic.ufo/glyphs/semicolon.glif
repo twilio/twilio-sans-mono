@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="2">
+	<unicode hex="003B"/>
+	<advance width="600"/>
+	<outline>
+		<component base="comma"/>
+		<component base="period" xOffset="74" yOffset="422"/>
+	</outline>
+	<guideline x="74" y="436" angle="82"/>
+	<guideline x="-127" y="521" angle="0"/>
+	<guideline x="236" y="45" angle="82"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>comma</string>
+			<key>public.markColor</key>
+			<string>0,0.9811,0.5737,1</string>
+		</dict>
+	</lib>
+</glyph>

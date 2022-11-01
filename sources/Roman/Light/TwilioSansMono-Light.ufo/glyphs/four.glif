@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="2">
+	<unicode hex="0034"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="404" y="0" type="line"/>
+			<point x="458" y="0" type="line"/>
+			<point x="458" y="151" type="line"/>
+			<point x="545" y="151" type="line"/>
+			<point x="545" y="200" type="line"/>
+			<point x="458" y="200" type="line"/>
+			<point x="458" y="688" type="line"/>
+			<point x="391" y="688" type="line"/>
+			<point x="39" y="200" type="line"/>
+			<point x="39" y="151" type="line"/>
+			<point x="404" y="151" type="line"/>
+		</contour>
+		<contour>
+			<point x="99" y="200" type="line"/>
+			<point x="404" y="622" type="line"/>
+			<point x="404" y="200" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk_greater.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="53" y="-10" type="line"/>
+			<point x="500" y="245" type="line"/>
+			<point x="500" y="383" type="line"/>
+			<point x="53" y="638" type="line"/>
+			<point x="53" y="514" type="line"/>
+			<point x="411" y="313" type="line"/>
+			<point x="53" y="114" type="line"/>
+		</contour>
+		<contour>
+			<point x="-68" y="144" type="line"/>
+			<point x="-8" y="249" type="line"/>
+			<point x="-194" y="319" type="line"/>
+			<point x="-9" y="388" type="line"/>
+			<point x="-69" y="493" type="line"/>
+			<point x="-222" y="368" type="line"/>
+			<point x="-191" y="563" type="line"/>
+			<point x="-312" y="563" type="line"/>
+			<point x="-279" y="368" type="line"/>
+			<point x="-430" y="493" type="line"/>
+			<point x="-490" y="388" type="line"/>
+			<point x="-308" y="319" type="line"/>
+			<point x="-492" y="250" type="line"/>
+			<point x="-432" y="145" type="line"/>
+			<point x="-279" y="270" type="line"/>
+			<point x="-312" y="76" type="line"/>
+			<point x="-191" y="76" type="line"/>
+			<point x="-222" y="269" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 12:49:39 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

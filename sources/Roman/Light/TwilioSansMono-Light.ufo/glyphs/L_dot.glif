@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="2">
+	<unicode hex="013F"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="107" y="0" type="line"/>
+			<point x="530" y="0" type="line"/>
+			<point x="530" y="50" type="line"/>
+			<point x="162" y="50" type="line"/>
+			<point x="162" y="684" type="line"/>
+			<point x="107" y="684" type="line"/>
+		</contour>
+		<contour>
+			<point x="433" y="349" type="curve" smooth="yes"/>
+			<point x="469" y="349"/>
+			<point x="490" y="362"/>
+			<point x="490" y="401" type="curve" smooth="yes"/>
+			<point x="490" y="440"/>
+			<point x="469" y="452"/>
+			<point x="433" y="452" type="curve" smooth="yes"/>
+			<point x="397" y="452"/>
+			<point x="376" y="440"/>
+			<point x="376" y="401" type="curve" smooth="yes"/>
+			<point x="376" y="362"/>
+			<point x="397" y="349"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>L</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

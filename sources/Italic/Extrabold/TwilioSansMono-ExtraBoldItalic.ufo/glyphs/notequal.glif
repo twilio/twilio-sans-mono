@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="2">
+	<unicode hex="2260"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="82" y="38" type="line"/>
+			<point x="196" y="38" type="line"/>
+			<point x="242" y="109" type="line"/>
+			<point x="516" y="109" type="line"/>
+			<point x="535" y="247" type="line"/>
+			<point x="332" y="247" type="line"/>
+			<point x="390" y="336" type="line"/>
+			<point x="548" y="336" type="line"/>
+			<point x="567" y="474" type="line"/>
+			<point x="480" y="474" type="line"/>
+			<point x="526" y="544" type="line"/>
+			<point x="412" y="544" type="line"/>
+			<point x="366" y="474" type="line"/>
+			<point x="93" y="474" type="line"/>
+			<point x="73" y="336" type="line"/>
+			<point x="276" y="336" type="line"/>
+			<point x="218" y="247" type="line"/>
+			<point x="61" y="247" type="line"/>
+			<point x="41" y="109" type="line"/>
+			<point x="128" y="109" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>equal</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>plus</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>plus</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

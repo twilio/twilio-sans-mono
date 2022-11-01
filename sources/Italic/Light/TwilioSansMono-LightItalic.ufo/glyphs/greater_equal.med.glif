@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater_equal.med" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="112" y="0" type="line"/>
+			<point x="184" y="0" type="line"/>
+			<point x="378" y="186" type="line"/>
+			<point x="589" y="186" type="line"/>
+			<point x="596" y="237" type="line"/>
+			<point x="431" y="237" type="line"/>
+			<point x="511" y="314" type="line"/>
+			<point x="449" y="392" type="line"/>
+			<point x="618" y="392" type="line"/>
+			<point x="625" y="443" type="line"/>
+			<point x="409" y="443" type="line"/>
+			<point x="262" y="629" type="line"/>
+			<point x="197" y="629" type="line"/>
+			<point x="345" y="443" type="line"/>
+			<point x="26" y="443" type="line"/>
+			<point x="19" y="392" type="line"/>
+			<point x="385" y="392" type="line"/>
+			<point x="443" y="319" type="line"/>
+			<point x="359" y="237" type="line"/>
+			<point x="-3" y="237" type="line"/>
+			<point x="-10" y="186" type="line"/>
+			<point x="305" y="186" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 13:58:01 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

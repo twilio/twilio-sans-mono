@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="2">
+	<unicode hex="013F"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="52" y="0" type="line"/>
+			<point x="511" y="0" type="line"/>
+			<point x="527" y="116" type="line"/>
+			<point x="196" y="116" type="line"/>
+			<point x="275" y="684" type="line"/>
+			<point x="148" y="684" type="line"/>
+		</contour>
+		<contour>
+			<point x="467" y="325" type="curve" smooth="yes"/>
+			<point x="527" y="325"/>
+			<point x="548" y="356"/>
+			<point x="556" y="412" type="curve" smooth="yes"/>
+			<point x="565" y="473"/>
+			<point x="542" y="508"/>
+			<point x="481" y="508" type="curve" smooth="yes"/>
+			<point x="420" y="508"/>
+			<point x="397" y="477"/>
+			<point x="390" y="422" type="curve" smooth="yes"/>
+			<point x="381" y="360"/>
+			<point x="405" y="325"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>L</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>L</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

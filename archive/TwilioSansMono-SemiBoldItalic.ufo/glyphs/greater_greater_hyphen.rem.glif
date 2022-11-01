@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater_greater_hyphen.rem" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-1109" y="0" type="line"/>
+			<point x="-958" y="0" type="line"/>
+			<point x="-654" y="314" type="line"/>
+			<point x="-886" y="629" type="line"/>
+			<point x="-1024" y="629" type="line"/>
+			<point x="-800" y="320" type="line"/>
+		</contour>
+		<contour>
+			<point x="-726" y="0" type="line"/>
+			<point x="-575" y="0" type="line"/>
+			<point x="-324" y="258" type="line"/>
+			<point x="468" y="258" type="line"/>
+			<point x="484" y="371" type="line"/>
+			<point x="-312" y="371" type="line"/>
+			<point x="-503" y="629" type="line"/>
+			<point x="-641" y="629" type="line"/>
+			<point x="-418" y="321" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

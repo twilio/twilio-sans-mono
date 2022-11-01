@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="307" y="0" type="line"/>
+			<point x="373" y="0" type="line"/>
+			<point x="385" y="80" type="line"/>
+			<point x="431" y="80" type="line"/>
+			<point x="438" y="137" type="line"/>
+			<point x="392" y="137" type="line"/>
+			<point x="431" y="411" type="line"/>
+			<point x="332" y="411" type="line"/>
+			<point x="118" y="137" type="line"/>
+			<point x="110" y="81" type="line"/>
+			<point x="319" y="81" type="line"/>
+		</contour>
+		<contour>
+			<point x="186" y="137" type="line"/>
+			<point x="358" y="361" type="line"/>
+			<point x="326" y="137" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

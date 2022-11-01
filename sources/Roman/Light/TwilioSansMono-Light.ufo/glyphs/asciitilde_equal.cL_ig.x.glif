@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde_equal.cLig.x" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-320" y="340" type="line"/>
+			<point x="-274" y="411"/>
+			<point x="-221" y="438"/>
+			<point x="-162" y="438" type="curve" smooth="yes"/>
+			<point x="-58" y="438"/>
+			<point x="25" y="322"/>
+			<point x="152" y="322" type="curve" smooth="yes"/>
+			<point x="222" y="322"/>
+			<point x="286" y="351"/>
+			<point x="320" y="403" type="curve"/>
+			<point x="320" y="469" type="line"/>
+			<point x="265" y="392"/>
+			<point x="209" y="369"/>
+			<point x="145" y="371" type="curve" smooth="yes"/>
+			<point x="45" y="374"/>
+			<point x="-33" y="487"/>
+			<point x="-162" y="487" type="curve" smooth="yes"/>
+			<point x="-228" y="487"/>
+			<point x="-287" y="458"/>
+			<point x="-320" y="407" type="curve"/>
+		</contour>
+		<contour>
+			<point x="-320" y="177" type="line"/>
+			<point x="320" y="177" type="line"/>
+			<point x="320" y="228" type="line"/>
+			<point x="-320" y="228" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 14:14:54 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

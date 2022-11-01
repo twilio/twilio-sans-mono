@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave.cap" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="383" y="747" type="line"/>
+			<point x="321" y="884" type="line"/>
+			<point x="216" y="884" type="line"/>
+			<point x="308" y="747" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="345" y="684"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+		</dict>
+	</lib>
+</glyph>

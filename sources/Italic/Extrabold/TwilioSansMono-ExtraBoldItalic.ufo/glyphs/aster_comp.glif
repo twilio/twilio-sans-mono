@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aster_comp" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="243" y="526" type="curve" smooth="yes"/>
+			<point x="196" y="311" type="line"/>
+			<point x="337" y="311" type="line"/>
+			<point x="290" y="526" type="line" smooth="yes"/>
+			<point x="286" y="541"/>
+			<point x="280" y="548"/>
+			<point x="273" y="550" type="curve"/>
+			<point x="280" y="552"/>
+			<point x="286" y="559"/>
+			<point x="290" y="574" type="curve" smooth="yes"/>
+			<point x="337" y="789" type="line"/>
+			<point x="196" y="789" type="line"/>
+			<point x="243" y="574" type="line" smooth="yes"/>
+			<point x="247" y="559"/>
+			<point x="253" y="552"/>
+			<point x="261" y="550" type="curve"/>
+			<point x="253" y="548"/>
+			<point x="247" y="541"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

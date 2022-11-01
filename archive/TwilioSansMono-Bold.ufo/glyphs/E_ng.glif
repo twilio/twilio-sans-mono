@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng" format="2">
+	<unicode hex="014A"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="337" y="-207" type="curve" smooth="yes"/>
+			<point x="454" y="-207"/>
+			<point x="544" y="-151"/>
+			<point x="544" y="-12" type="curve" smooth="yes"/>
+			<point x="544" y="684" type="line"/>
+			<point x="417" y="684" type="line"/>
+			<point x="417" y="429" type="line" smooth="yes"/>
+			<point x="417" y="328"/>
+			<point x="424" y="265"/>
+			<point x="437" y="173" type="curve"/>
+			<point x="428" y="173" type="line"/>
+			<point x="228" y="684" type="line"/>
+			<point x="56" y="684" type="line"/>
+			<point x="56" y="0" type="line"/>
+			<point x="183" y="0" type="line"/>
+			<point x="183" y="255" type="line" smooth="yes"/>
+			<point x="183" y="343"/>
+			<point x="174" y="419"/>
+			<point x="164" y="511" type="curve"/>
+			<point x="173" y="511" type="line"/>
+			<point x="372" y="0" type="line"/>
+			<point x="409" y="0" type="line"/>
+			<point x="409" y="-3" type="line" smooth="yes"/>
+			<point x="409" y="-67"/>
+			<point x="377" y="-100"/>
+			<point x="306" y="-100" type="curve" smooth="yes"/>
+			<point x="274" y="-100"/>
+			<point x="247" y="-95"/>
+			<point x="225" y="-89" type="curve"/>
+			<point x="225" y="-194" type="line"/>
+			<point x="252" y="-201"/>
+			<point x="287" y="-207"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="343" y="720"/>
+	<anchor name="bottom" x="299" y="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>N</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>N</string>
+		</dict>
+	</lib>
+</glyph>

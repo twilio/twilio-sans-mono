@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equivalence" format="2">
+	<unicode hex="2261"/>
+	<advance width="600"/>
+	<outline>
+		<component base="minus" xOffset="1"/>
+		<component base="minus" xOffset="29" yOffset="200"/>
+		<component base="minus" xOffset="-27" yOffset="-200"/>
+	</outline>
+	<guideline x="62" y="129" angle="82"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>plus</string>
+			<key>public.markColor</key>
+			<string>0,0.9811,0.5737,1</string>
+		</dict>
+	</lib>
+</glyph>

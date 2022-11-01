@@ -1,0 +1,23 @@
+table hhea {
+    Ascender 950;
+    Descender -266;
+    LineGap 0;
+} hhea;
+
+table OS/2 {
+    FSType 0;
+    Panose 2 1 5 9 4 2 4 4 2 4;
+    TypoAscender 750;
+    TypoDescender -250;
+    TypoLineGap 216;
+    winAscent 950;
+    winDescent 266;
+    XHeight 523;
+    CapHeight 684;
+    WeightClass 400;
+    WidthClass 5;
+    Vendor "SHRP";
+} OS/2;
+
+include (../../features.family);
+include (../TwilioMonoRoman-GSUB.fea);

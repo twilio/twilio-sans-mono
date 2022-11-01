@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onethirdemdash" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="411" y="348" type="line"/>
+			<point x="213" y="348" type="line"/>
+			<point x="199" y="246" type="line"/>
+			<point x="397" y="246" type="line"/>
+		</contour>
+	</outline>
+</glyph>

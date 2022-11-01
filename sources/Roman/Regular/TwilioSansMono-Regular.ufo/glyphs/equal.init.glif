@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal.init" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="174" y="383" type="line"/>
+			<point x="600" y="383" type="line"/>
+			<point x="600" y="458" type="line"/>
+			<point x="174" y="458" type="line"/>
+		</contour>
+		<contour>
+			<point x="174" y="171" type="line"/>
+			<point x="600" y="171" type="line"/>
+			<point x="600" y="246" type="line"/>
+			<point x="174" y="246" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="361.5395683453" y="568.6187050359" angle="0" identifier="c2Y1Sn7BVk"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.typemytype.robofont.guideline.showMeasurements.c2Y1Sn7BVk</key>
+			<integer>1</integer>
+		</dict>
+	</lib>
+</glyph>

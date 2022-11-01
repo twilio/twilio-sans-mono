@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokelong" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="83" y="518" type="line"/>
+			<point x="683" y="518" type="line"/>
+			<point x="683" y="614" type="line"/>
+			<point x="83" y="614" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_center" x="383" y="566"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agrave" format="2">
+	<unicode hex="00E0"/>
+	<advance width="600"/>
+	<outline>
+		<component base="a"/>
+		<component base="grave" xOffset="-41"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>a</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>a</string>
+			<key>public.markColor</key>
+			<string>0,0.9811,0.5737,1</string>
+		</dict>
+	</lib>
+</glyph>

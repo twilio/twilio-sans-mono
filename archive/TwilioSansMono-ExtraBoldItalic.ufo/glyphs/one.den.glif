@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="119" y="0" type="line"/>
+			<point x="429" y="0" type="line"/>
+			<point x="443" y="94" type="line"/>
+			<point x="352" y="94" type="line"/>
+			<point x="396" y="410" type="line"/>
+			<point x="285" y="410" type="line"/>
+			<point x="169" y="323" type="line"/>
+			<point x="154" y="215" type="line"/>
+			<point x="273" y="299" type="line"/>
+			<point x="244" y="94" type="line"/>
+			<point x="133" y="94" type="line"/>
+		</contour>
+	</outline>
+</glyph>

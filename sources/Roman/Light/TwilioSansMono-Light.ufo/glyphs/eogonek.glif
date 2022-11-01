@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek" format="2">
+	<unicode hex="0119"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="344" y="-14" type="curve" smooth="yes"/>
+			<point x="357" y="-14" type="line"/>
+			<point x="315" y="-39"/>
+			<point x="290" y="-79"/>
+			<point x="290" y="-116" type="curve" smooth="yes"/>
+			<point x="290" y="-178"/>
+			<point x="330" y="-203"/>
+			<point x="391" y="-203" type="curve" smooth="yes"/>
+			<point x="419" y="-203"/>
+			<point x="445" y="-196"/>
+			<point x="454" y="-190" type="curve"/>
+			<point x="454" y="-148" type="line"/>
+			<point x="440" y="-154"/>
+			<point x="419" y="-158"/>
+			<point x="399" y="-158" type="curve" smooth="yes"/>
+			<point x="365" y="-158"/>
+			<point x="340" y="-143"/>
+			<point x="340" y="-103" type="curve" smooth="yes"/>
+			<point x="340" y="-65"/>
+			<point x="367" y="-28"/>
+			<point x="445" y="0" type="curve"/>
+			<point x="468" y="7"/>
+			<point x="489" y="17"/>
+			<point x="507" y="29" type="curve"/>
+			<point x="507" y="81" type="line"/>
+			<point x="465" y="51"/>
+			<point x="416" y="33"/>
+			<point x="350" y="33" type="curve" smooth="yes"/>
+			<point x="238" y="33"/>
+			<point x="142" y="97"/>
+			<point x="138" y="249" type="curve"/>
+			<point x="517" y="249" type="line"/>
+			<point x="517" y="279" type="line"/>
+			<point x="517" y="452"/>
+			<point x="431" y="537"/>
+			<point x="305" y="537" type="curve" smooth="yes"/>
+			<point x="182" y="537"/>
+			<point x="82" y="433"/>
+			<point x="82" y="269" type="curve" smooth="yes"/>
+			<point x="82" y="257" type="line" smooth="yes"/>
+			<point x="82" y="86"/>
+			<point x="182" y="-14"/>
+		</contour>
+		<contour>
+			<point x="305" y="491" type="curve" smooth="yes"/>
+			<point x="391" y="491"/>
+			<point x="458" y="427"/>
+			<point x="462" y="293" type="curve"/>
+			<point x="138" y="293" type="line"/>
+			<point x="145" y="417"/>
+			<point x="215" y="491"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>e</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>e</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

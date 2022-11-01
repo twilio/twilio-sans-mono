@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus_plus_plus.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-1027" y="268" type="line"/>
+			<point x="-795" y="268" type="line"/>
+			<point x="-821" y="81" type="line"/>
+			<point x="-738" y="81" type="line"/>
+			<point x="-711" y="268" type="line"/>
+			<point x="-337" y="268" type="line"/>
+			<point x="-363" y="81" type="line"/>
+			<point x="-280" y="81" type="line"/>
+			<point x="-253" y="268" type="line"/>
+			<point x="121" y="268" type="line"/>
+			<point x="95" y="81" type="line"/>
+			<point x="179" y="81" type="line"/>
+			<point x="205" y="268" type="line"/>
+			<point x="429" y="268" type="line"/>
+			<point x="441" y="350" type="line"/>
+			<point x="216" y="350" type="line"/>
+			<point x="242" y="537" type="line"/>
+			<point x="158" y="537" type="line"/>
+			<point x="132" y="350" type="line"/>
+			<point x="-242" y="350" type="line"/>
+			<point x="-216" y="537" type="line"/>
+			<point x="-300" y="537" type="line"/>
+			<point x="-326" y="350" type="line"/>
+			<point x="-700" y="350" type="line"/>
+			<point x="-674" y="537" type="line"/>
+			<point x="-758" y="537" type="line"/>
+			<point x="-784" y="350" type="line"/>
+			<point x="-1015" y="350" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

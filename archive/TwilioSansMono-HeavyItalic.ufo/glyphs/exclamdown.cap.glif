@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown.cap" format="2">
+	<advance width="600"/>
+	<outline>
+		<component base="exclamdown" xOffset="23" yOffset="161"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 12:04:00 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+			<string>==|exclam</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==|exclam</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>exclam</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>exclam</string>
+			<key>public.markColor</key>
+			<string>0,0.9811,0.5737,1</string>
+		</dict>
+	</lib>
+</glyph>

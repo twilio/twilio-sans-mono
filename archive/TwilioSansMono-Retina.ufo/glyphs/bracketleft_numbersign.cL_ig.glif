@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft_numbersign.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-101" y="241" type="line"/>
+			<point x="-101" y="167" type="line"/>
+			<point x="29" y="167" type="line"/>
+			<point x="13" y="0" type="line"/>
+			<point x="91" y="0" type="line"/>
+			<point x="107" y="167" type="line"/>
+			<point x="244" y="167" type="line"/>
+			<point x="228" y="0" type="line"/>
+			<point x="304" y="0" type="line"/>
+			<point x="320" y="167" type="line"/>
+			<point x="433" y="167" type="line"/>
+			<point x="433" y="241" type="line"/>
+			<point x="327" y="241" type="line"/>
+			<point x="348" y="454" type="line"/>
+			<point x="457" y="454" type="line"/>
+			<point x="457" y="529" type="line"/>
+			<point x="355" y="529" type="line"/>
+			<point x="370" y="684" type="line"/>
+			<point x="292" y="684" type="line"/>
+			<point x="278" y="529" type="line"/>
+			<point x="141" y="529" type="line"/>
+			<point x="155" y="684" type="line"/>
+			<point x="79" y="684" type="line"/>
+			<point x="64" y="529" type="line"/>
+			<point x="-101" y="529" type="line"/>
+			<point x="-101" y="454" type="line"/>
+			<point x="57" y="454" type="line"/>
+			<point x="36" y="241" type="line"/>
+		</contour>
+		<contour>
+			<point x="114" y="241" type="line"/>
+			<point x="134" y="454" type="line"/>
+			<point x="271" y="454" type="line"/>
+			<point x="251" y="241" type="line"/>
+		</contour>
+		<contour>
+			<point x="-116" y="-93" type="line"/>
+			<point x="-319" y="-93" type="line"/>
+			<point x="-319" y="722" type="line"/>
+			<point x="-116" y="722" type="line"/>
+			<point x="-116" y="792" type="line"/>
+			<point x="-407" y="792" type="line"/>
+			<point x="-407" y="-163" type="line"/>
+			<point x="-116" y="-163" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 17:27:11 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

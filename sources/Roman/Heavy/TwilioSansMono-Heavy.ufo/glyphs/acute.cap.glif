@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.cap" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="175" y="741" type="line"/>
+			<point x="315" y="741" type="line"/>
+			<point x="424" y="884" type="line"/>
+			<point x="218" y="884" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="245" y="684"/>
+	<guideline x="154" y="625" angle="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 15:18:32 +0000</string>
+		</dict>
+	</lib>
+</glyph>

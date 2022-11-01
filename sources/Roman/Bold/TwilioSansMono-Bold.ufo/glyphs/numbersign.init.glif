@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign.init" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="25" y="267" type="line"/>
+			<point x="25" y="157" type="line"/>
+			<point x="118" y="157" type="line"/>
+			<point x="103" y="0" type="line"/>
+			<point x="216" y="0" type="line"/>
+			<point x="231" y="157" type="line"/>
+			<point x="342" y="157" type="line"/>
+			<point x="328" y="0" type="line"/>
+			<point x="439" y="0" type="line"/>
+			<point x="454" y="157" type="line"/>
+			<point x="600" y="157" type="line"/>
+			<point x="600" y="267" type="line"/>
+			<point x="465" y="267" type="line"/>
+			<point x="480" y="424" type="line"/>
+			<point x="600" y="424" type="line"/>
+			<point x="600" y="535" type="line"/>
+			<point x="490" y="535" type="line"/>
+			<point x="504" y="684" type="line"/>
+			<point x="392" y="684" type="line"/>
+			<point x="378" y="535" type="line"/>
+			<point x="266" y="535" type="line"/>
+			<point x="280" y="684" type="line"/>
+			<point x="168" y="684" type="line"/>
+			<point x="154" y="535" type="line"/>
+			<point x="50" y="535" type="line"/>
+			<point x="50" y="424" type="line"/>
+			<point x="143" y="424" type="line"/>
+			<point x="128" y="267" type="line"/>
+		</contour>
+		<contour>
+			<point x="241" y="267" type="line"/>
+			<point x="256" y="424" type="line"/>
+			<point x="368" y="424" type="line"/>
+			<point x="353" y="267" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+		</dict>
+	</lib>
+</glyph>

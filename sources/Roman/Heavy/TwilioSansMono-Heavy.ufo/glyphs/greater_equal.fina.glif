@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater_equal.fina" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="103" y="0" type="line"/>
+			<point x="318" y="0" type="line"/>
+			<point x="572" y="314" type="line"/>
+			<point x="315" y="629" type="line"/>
+			<point x="100" y="629" type="line"/>
+			<point x="197" y="511" type="line"/>
+			<point x="0" y="511" type="line"/>
+			<point x="0" y="351" type="line"/>
+			<point x="329" y="351" type="line"/>
+			<point x="357" y="318" type="line"/>
+			<point x="325" y="278" type="line"/>
+			<point x="0" y="278" type="line"/>
+			<point x="0" y="118" type="line"/>
+			<point x="197" y="118" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 16:26:36 +0000</string>
+		</dict>
+	</lib>
+</glyph>

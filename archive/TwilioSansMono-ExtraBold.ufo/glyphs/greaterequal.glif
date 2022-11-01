@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greaterequal" format="2">
+	<unicode hex="2265"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="62" y="174" type="line"/>
+			<point x="538" y="343" type="line"/>
+			<point x="538" y="526" type="line"/>
+			<point x="62" y="698" type="line"/>
+			<point x="62" y="547" type="line"/>
+			<point x="408" y="437" type="line"/>
+			<point x="62" y="323" type="line"/>
+		</contour>
+		<contour>
+			<point x="62" y="0" type="line"/>
+			<point x="538" y="0" type="line"/>
+			<point x="538" y="138" type="line"/>
+			<point x="62" y="138" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>minus</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>plus</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>plus</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aacute.001" format="2">
+	<advance width="600"/>
+	<outline>
+		<component base="a.ss01"/>
+		<component base="acute" xOffset="66"/>
+	</outline>
+	<guideline x="374" y="785" angle="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>a</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>a</string>
+			<key>public.markColor</key>
+			<string>0,0.9811,0.5737,1</string>
+		</dict>
+	</lib>
+</glyph>

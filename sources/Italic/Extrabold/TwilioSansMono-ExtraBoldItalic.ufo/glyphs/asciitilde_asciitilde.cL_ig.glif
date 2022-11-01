@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde_asciitilde.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-101" y="179" type="curve"/>
+			<point x="13" y="179"/>
+			<point x="33" y="300"/>
+			<point x="105" y="300" type="curve"/>
+			<point x="176" y="300"/>
+			<point x="177" y="179"/>
+			<point x="312" y="179" type="curve"/>
+			<point x="411" y="179"/>
+			<point x="488" y="264"/>
+			<point x="535" y="443" type="curve"/>
+			<point x="406" y="443" type="line"/>
+			<point x="381" y="370"/>
+			<point x="355" y="331"/>
+			<point x="309" y="330" type="curve"/>
+			<point x="234" y="331"/>
+			<point x="251" y="449"/>
+			<point x="112" y="449" type="curve"/>
+			<point x="-17" y="449"/>
+			<point x="-27" y="331"/>
+			<point x="-94" y="331" type="curve"/>
+			<point x="-160" y="331"/>
+			<point x="-160" y="449"/>
+			<point x="-287" y="449" type="curve"/>
+			<point x="-396" y="449"/>
+			<point x="-471" y="368"/>
+			<point x="-518" y="187" type="curve"/>
+			<point x="-389" y="187" type="line"/>
+			<point x="-366" y="261"/>
+			<point x="-342" y="300"/>
+			<point x="-292" y="300" type="curve"/>
+			<point x="-224" y="300"/>
+			<point x="-224" y="179"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

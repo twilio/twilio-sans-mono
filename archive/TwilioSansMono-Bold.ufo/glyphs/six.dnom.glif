@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.dnom" format="2">
+	<advance width="600"/>
+	<outline>
+		<component base="six.numr" yOffset="-406"/>
+	</outline>
+	<anchor name="top" x="368" y="331"/>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>source</key>
+				<string>six.den</string>
+			</dict>
+			<key>public.markColor</key>
+			<string>0,0.9811,0.5737,1</string>
+		</dict>
+	</lib>
+</glyph>

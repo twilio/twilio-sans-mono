@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="2">
+	<unicode hex="2021"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="79" y="205" type="line"/>
+			<point x="79" y="132" type="line"/>
+			<point x="259" y="132" type="line"/>
+			<point x="259" y="-143" type="line"/>
+			<point x="342" y="-143" type="line"/>
+			<point x="342" y="132" type="line"/>
+			<point x="521" y="132" type="line"/>
+			<point x="521" y="205" type="line"/>
+			<point x="342" y="205" type="line"/>
+			<point x="342" y="502" type="line"/>
+			<point x="521" y="502" type="line"/>
+			<point x="521" y="574" type="line"/>
+			<point x="342" y="574" type="line"/>
+			<point x="342" y="765" type="line"/>
+			<point x="259" y="765" type="line"/>
+			<point x="259" y="574" type="line"/>
+			<point x="79" y="574" type="line"/>
+			<point x="79" y="502" type="line"/>
+			<point x="259" y="502" type="line"/>
+			<point x="259" y="205" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>dagger</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>dagger</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater_hyphen.init" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="45" y="0" type="line"/>
+			<point x="272" y="0" type="line"/>
+			<point x="478" y="228" type="line"/>
+			<point x="595" y="228" type="line"/>
+			<point x="619" y="400" type="line"/>
+			<point x="497" y="400" type="line"/>
+			<point x="339" y="629" type="line"/>
+			<point x="131" y="629" type="line"/>
+			<point x="339" y="324" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 16:33:59 +0000</string>
+		</dict>
+	</lib>
+</glyph>

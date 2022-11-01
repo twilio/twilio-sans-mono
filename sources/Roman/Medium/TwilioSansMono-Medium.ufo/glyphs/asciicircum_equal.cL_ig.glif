@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum_equal.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-453" y="355" type="line"/>
+			<point x="-351" y="355" type="line"/>
+			<point x="-222" y="615" type="line"/>
+			<point x="-93" y="355" type="line"/>
+			<point x="419" y="355" type="line"/>
+			<point x="419" y="450" type="line"/>
+			<point x="-39" y="450" type="line"/>
+			<point x="-39" y="447" type="line"/>
+			<point x="-172" y="701" type="line"/>
+			<point x="-275" y="701" type="line"/>
+		</contour>
+		<contour>
+			<point x="-39" y="138" type="line"/>
+			<point x="419" y="138" type="line"/>
+			<point x="419" y="233" type="line"/>
+			<point x="-39" y="233" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 13:36:53 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

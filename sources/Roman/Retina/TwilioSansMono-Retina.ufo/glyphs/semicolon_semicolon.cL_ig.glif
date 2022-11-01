@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon_semicolon.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-272" y="126" type="line"/>
+			<point x="-326" y="-175" type="line"/>
+			<point x="-259" y="-175" type="line"/>
+			<point x="-141" y="126" type="line"/>
+		</contour>
+		<contour>
+			<point x="-222" y="381" type="curve" smooth="yes"/>
+			<point x="-171" y="381"/>
+			<point x="-144" y="400"/>
+			<point x="-144" y="452" type="curve" smooth="yes"/>
+			<point x="-144" y="503"/>
+			<point x="-171" y="522"/>
+			<point x="-222" y="522" type="curve" smooth="yes"/>
+			<point x="-273" y="522"/>
+			<point x="-300" y="503"/>
+			<point x="-300" y="452" type="curve" smooth="yes"/>
+			<point x="-300" y="400"/>
+			<point x="-273" y="381"/>
+		</contour>
+		<contour>
+			<point x="172" y="126" type="line"/>
+			<point x="118" y="-175" type="line"/>
+			<point x="185" y="-175" type="line"/>
+			<point x="303" y="126" type="line"/>
+		</contour>
+		<contour>
+			<point x="222" y="381" type="curve" smooth="yes"/>
+			<point x="273" y="381"/>
+			<point x="300" y="400"/>
+			<point x="300" y="452" type="curve" smooth="yes"/>
+			<point x="300" y="503"/>
+			<point x="273" y="522"/>
+			<point x="222" y="522" type="curve" smooth="yes"/>
+			<point x="171" y="522"/>
+			<point x="144" y="503"/>
+			<point x="144" y="452" type="curve" smooth="yes"/>
+			<point x="144" y="400"/>
+			<point x="171" y="381"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

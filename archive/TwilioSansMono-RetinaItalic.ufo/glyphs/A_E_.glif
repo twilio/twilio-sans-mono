@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+	<unicode hex="00C6"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-29" y="0" type="line"/>
+			<point x="65" y="-1" type="line"/>
+			<point x="138" y="179" type="line"/>
+			<point x="283" y="179" type="line"/>
+			<point x="258" y="0" type="line"/>
+			<point x="538" y="0" type="line"/>
+			<point x="549" y="78" type="line"/>
+			<point x="356" y="78" type="line"/>
+			<point x="388" y="304" type="line"/>
+			<point x="551" y="304" type="line"/>
+			<point x="562" y="381" type="line"/>
+			<point x="398" y="381" type="line"/>
+			<point x="430" y="607" type="line"/>
+			<point x="620" y="607" type="line"/>
+			<point x="631" y="684" type="line"/>
+			<point x="256" y="684" type="line"/>
+		</contour>
+		<contour>
+			<point x="169" y="255" type="line"/>
+			<point x="313" y="607" type="line"/>
+			<point x="343" y="607" type="line"/>
+			<point x="294" y="255" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="398" y="684"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

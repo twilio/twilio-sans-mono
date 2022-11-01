@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon_colon.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-221" y="-12" type="curve" smooth="yes"/>
+			<point x="-183" y="-12"/>
+			<point x="-162" y="2"/>
+			<point x="-162" y="42" type="curve" smooth="yes"/>
+			<point x="-162" y="81"/>
+			<point x="-183" y="95"/>
+			<point x="-221" y="95" type="curve" smooth="yes"/>
+			<point x="-259" y="95"/>
+			<point x="-280" y="81"/>
+			<point x="-280" y="42" type="curve" smooth="yes"/>
+			<point x="-280" y="2"/>
+			<point x="-259" y="-12"/>
+		</contour>
+		<contour>
+			<point x="-221" y="410" type="curve" smooth="yes"/>
+			<point x="-183" y="410"/>
+			<point x="-162" y="424"/>
+			<point x="-162" y="464" type="curve" smooth="yes"/>
+			<point x="-162" y="503"/>
+			<point x="-183" y="517"/>
+			<point x="-221" y="517" type="curve" smooth="yes"/>
+			<point x="-259" y="517"/>
+			<point x="-280" y="503"/>
+			<point x="-280" y="464" type="curve" smooth="yes"/>
+			<point x="-280" y="424"/>
+			<point x="-259" y="410"/>
+		</contour>
+		<contour>
+			<point x="221" y="-12" type="curve" smooth="yes"/>
+			<point x="259" y="-12"/>
+			<point x="280" y="2"/>
+			<point x="280" y="42" type="curve" smooth="yes"/>
+			<point x="280" y="81"/>
+			<point x="259" y="95"/>
+			<point x="221" y="95" type="curve" smooth="yes"/>
+			<point x="183" y="95"/>
+			<point x="162" y="81"/>
+			<point x="162" y="42" type="curve" smooth="yes"/>
+			<point x="162" y="2"/>
+			<point x="183" y="-12"/>
+		</contour>
+		<contour>
+			<point x="221" y="410" type="curve" smooth="yes"/>
+			<point x="259" y="410"/>
+			<point x="280" y="424"/>
+			<point x="280" y="464" type="curve" smooth="yes"/>
+			<point x="280" y="503"/>
+			<point x="259" y="517"/>
+			<point x="221" y="517" type="curve" smooth="yes"/>
+			<point x="183" y="517"/>
+			<point x="162" y="503"/>
+			<point x="162" y="464" type="curve" smooth="yes"/>
+			<point x="162" y="424"/>
+			<point x="183" y="410"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

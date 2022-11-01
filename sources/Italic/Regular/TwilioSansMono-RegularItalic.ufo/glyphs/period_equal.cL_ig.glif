@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period_equal.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-58" y="375" type="line"/>
+			<point x="443" y="375" type="line"/>
+			<point x="454" y="450" type="line"/>
+			<point x="-47" y="450" type="line"/>
+		</contour>
+		<contour>
+			<point x="-341" y="163" type="curve" smooth="yes"/>
+			<point x="-253" y="163"/>
+			<point x="-220" y="208"/>
+			<point x="-211" y="287" type="curve" smooth="yes"/>
+			<point x="-201" y="361"/>
+			<point x="-227" y="421"/>
+			<point x="-324" y="421" type="curve" smooth="yes"/>
+			<point x="-412" y="421"/>
+			<point x="-446" y="376"/>
+			<point x="-456" y="297" type="curve" smooth="yes"/>
+			<point x="-466" y="223"/>
+			<point x="-439" y="163"/>
+		</contour>
+		<contour>
+			<point x="-88" y="163" type="line"/>
+			<point x="414" y="163" type="line"/>
+			<point x="424" y="237" type="line"/>
+			<point x="-77" y="237" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

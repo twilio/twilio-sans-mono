@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="2">
+	<unicode hex="2260"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="130" y="97" type="line"/>
+			<point x="186" y="97" type="line"/>
+			<point x="240" y="177" type="line"/>
+			<point x="520" y="177" type="line"/>
+			<point x="520" y="228" type="line"/>
+			<point x="275" y="228" type="line"/>
+			<point x="381" y="384" type="line"/>
+			<point x="520" y="384" type="line"/>
+			<point x="520" y="435" type="line"/>
+			<point x="416" y="435" type="line"/>
+			<point x="470" y="515" type="line"/>
+			<point x="414" y="515" type="line"/>
+			<point x="360" y="435" type="line"/>
+			<point x="80" y="435" type="line"/>
+			<point x="80" y="384" type="line"/>
+			<point x="325" y="384" type="line"/>
+			<point x="219" y="228" type="line"/>
+			<point x="80" y="228" type="line"/>
+			<point x="80" y="177" type="line"/>
+			<point x="184" y="177" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="80" y="144" angle="90"/>
+	<guideline x="520" y="336" angle="90"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>plus</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>plus</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

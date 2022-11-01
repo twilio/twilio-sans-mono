@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="2">
+	<unicode hex="2260"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="124" y="73" type="line"/>
+			<point x="200" y="73" type="line"/>
+			<point x="248" y="150" type="line"/>
+			<point x="526" y="150" type="line"/>
+			<point x="526" y="232" type="line"/>
+			<point x="298" y="232" type="line"/>
+			<point x="379" y="364" type="line"/>
+			<point x="526" y="364" type="line"/>
+			<point x="526" y="446" type="line"/>
+			<point x="429" y="446" type="line"/>
+			<point x="476" y="522" type="line"/>
+			<point x="400" y="522" type="line"/>
+			<point x="353" y="446" type="line"/>
+			<point x="74" y="446" type="line"/>
+			<point x="74" y="364" type="line"/>
+			<point x="303" y="364" type="line"/>
+			<point x="222" y="232" type="line"/>
+			<point x="74" y="232" type="line"/>
+			<point x="74" y="150" type="line"/>
+			<point x="171" y="150" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="73.8273381295" y="126.3237410072" angle="90"/>
+	<guideline x="526.1726618705" y="264.4532374101" angle="90"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>plus</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>plus</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

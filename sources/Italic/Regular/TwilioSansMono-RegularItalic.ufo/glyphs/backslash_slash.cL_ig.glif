@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash_slash.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-117" y="-163" type="line"/>
+			<point x="4" y="-163" type="line"/>
+			<point x="515" y="792" type="line"/>
+			<point x="426" y="792" type="line"/>
+			<point x="-52" y="-103" type="line"/>
+			<point x="-284" y="792" type="line"/>
+			<point x="-365" y="792" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

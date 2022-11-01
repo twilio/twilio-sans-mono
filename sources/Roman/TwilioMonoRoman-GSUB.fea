@@ -1,0 +1,139 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn TRK;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn ROM;
+languagesystem latn CAT;
+languagesystem latn NLD;
+
+
+@class_supFigure = [zero.sups one.sups two.sups three.sups four.sups five.sups six.sups seven.sups eight.sups nine.sups];
+@class_supMath = [plus.sups minus.sups equal.sups parenleft.sups parenright.sups];
+@class_subFigure = [zero.sinf one.sinf two.sinf three.sinf four.sinf five.sinf six.sinf seven.sinf eight.sinf nine.sinf];
+@class_infMath = [plus.sinf minus.sinf equal.sinf parenleft.sinf parenright.sinf];
+@class_numFigure = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+# @class_numMath = [plus.numr minus.numr equal.numr parenleft.numr parenright.numr];
+@class_denFigure = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+# @class_denMath = [plus.dnom minus.dnom equal.dnom parenleft.dnom parenright.dnom];
+
+@class_defMath = [plus minus equal parenleft parenright];
+@class_default = [zero one two three four five six seven eight nine];
+@class_capPunc = [exclamdown.cap questiondown.cap guillemetleft.cap guillemetright.cap guilsinglleft.cap guilsinglright.cap bullet.cap periodcentered.cap hyphen.cap onethirdemdash.cap endash.cap threequarteremdash.cap emdash.cap uni2015.cap parenleft.cap parenright.cap bracketleft.cap bracketright.cap braceleft.cap braceright.cap anglebracketleft.cap anglebracketright.cap];
+@class_defaultPunc = [exclamdown questiondown guillemetleft guillemetright guilsinglleft guilsinglright bullet periodcentered hyphen onethirdemdash endash threequarteremdash emdash uni2015 parenleft parenright bracketleft bracketright braceleft braceright anglebracketleft anglebracketright];
+
+feature locl {
+    script latn;
+        language CAT;
+            lookup LDOT {
+                sub l' periodcentered' l by ldot;
+                sub L' periodcentered' L by Ldot;
+            } LDOT;
+
+        language NLD;
+            lookup DUTCHIJ {
+                sub I J by IJ;
+                sub i j by ij;
+            } DUTCHIJ;
+
+        language TRK exclude_dflt;
+            lookup IDOT {
+                sub i by i.TRK;
+            } IDOT;
+
+        language AZE exclude_dflt;
+            lookup IDOT;
+
+        language CRT exclude_dflt;
+            lookup IDOT;
+
+        language ROM exclude_dflt;
+            lookup SCEDILLA {
+                sub scedilla by scommaaccent;
+                sub Scedilla by Scommaaccent;
+            } SCEDILLA;
+} locl;
+
+include(../calt.fea);
+
+    ## --- Fraction --- ##
+    ## --- This fraction feature code was written by Tal Leming https://www.typesupply.com/ http://opentypecookbook.com/common-techniques.html --- ##
+
+feature frac {
+    sub one slash two by onehalf;
+    sub one slash three by uni2153;
+    sub two slash three by uni2154;
+    sub one slash four by onequarter;
+    sub three slash four by threequarters;
+} frac;
+
+
+feature case {
+    sub @class_defaultPunc by @class_capPunc ;
+} case;
+
+
+feature ordn {
+    sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+    sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+    ## --- Numerator --- ##
+
+feature numr {
+    sub @class_default by @class_numFigure;
+    # sub @class_linTab by @class_numFigure;
+    # sub @class_defMath by @class_numMath;
+} numr;
+
+    ## --- Denominator --- ##
+
+feature dnom {
+    sub @class_default by @class_denFigure;
+    # sub @class_linTab by @class_denFigure;
+    # sub @class_defMath by @class_denMath;
+} dnom;
+
+    ## --- Superior Figures --- ##
+
+feature sups {
+    sub @class_default by @class_supFigure;   
+    # sub @class_linTab by @class_supFigure;
+    sub @class_defMath by @class_supMath;
+} sups;
+    
+    ## --- Subscript Figures --- ##
+
+feature subs {
+    lookup subs {
+        sub @class_default by @class_subFigure;     
+        # sub @class_linTab by @class_subFigure;
+        sub @class_defMath by @class_infMath;
+    } subs;
+} subs;
+
+    ## --- Scientific Inferiors --- ##
+
+feature sinf {
+    lookup subs;
+} sinf;  
+
+
+
+feature ss05 {
+featureNames {
+    name "Slashed Zero";
+    name 1 0 0 "Slashed Zero";
+};
+    sub zero by zero.ss01;
+} ss05;
+
+feature ss06 {
+featureNames {
+    name "Plain Zero";
+    name 1 0 0 "Plain Zero";
+};
+    sub zero by zero.ss02;
+} ss06;
+
+

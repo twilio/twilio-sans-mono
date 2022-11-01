@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="2">
+	<unicode hex="006B"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="10" y="0" type="line"/>
+			<point x="205" y="0" type="line"/>
+			<point x="232" y="196" type="line"/>
+			<point x="338" y="0" type="line"/>
+			<point x="560" y="0" type="line"/>
+			<point x="442" y="199" type="line"/>
+			<point x="523" y="226"/>
+			<point x="587" y="296"/>
+			<point x="587" y="391" type="curve" smooth="yes"/>
+			<point x="587" y="472"/>
+			<point x="538" y="537"/>
+			<point x="445" y="537" type="curve" smooth="yes"/>
+			<point x="377" y="537"/>
+			<point x="319" y="504"/>
+			<point x="267" y="433" type="curve"/>
+			<point x="311" y="750" type="line"/>
+			<point x="116" y="750" type="line"/>
+		</contour>
+		<contour>
+			<point x="328" y="392" type="curve" smooth="yes"/>
+			<point x="372" y="392"/>
+			<point x="390" y="366"/>
+			<point x="390" y="335" type="curve" smooth="yes"/>
+			<point x="390" y="292"/>
+			<point x="356" y="252"/>
+			<point x="291" y="252" type="curve" smooth="yes"/>
+			<point x="240" y="252" type="line"/>
+			<point x="250" y="321" type="line" smooth="yes"/>
+			<point x="256" y="363"/>
+			<point x="278" y="392"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="272" y="0"/>
+	<guideline x="12" y="0" angle="82"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 12:04:00 +0000</string>
+		</dict>
+	</lib>
+</glyph>

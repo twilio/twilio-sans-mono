@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="2">
+	<unicode hex="00B8"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="227" y="-214" type="curve" smooth="yes"/>
+			<point x="290" y="-214"/>
+			<point x="333" y="-183"/>
+			<point x="335" y="-125" type="curve" smooth="yes"/>
+			<point x="337" y="-78"/>
+			<point x="311" y="-52"/>
+			<point x="257" y="-48" type="curve"/>
+			<point x="286" y="0" type="line"/>
+			<point x="241" y="0" type="line"/>
+			<point x="188" y="-89" type="line"/>
+			<point x="198" y="-87"/>
+			<point x="211" y="-85"/>
+			<point x="227" y="-85" type="curve" smooth="yes"/>
+			<point x="264" y="-85"/>
+			<point x="289" y="-95"/>
+			<point x="289" y="-125" type="curve" smooth="yes"/>
+			<point x="289" y="-160"/>
+			<point x="263" y="-171"/>
+			<point x="226" y="-171" type="curve" smooth="yes"/>
+			<point x="200" y="-171"/>
+			<point x="172" y="-164"/>
+			<point x="151" y="-151" type="curve"/>
+			<point x="145" y="-193" type="line"/>
+			<point x="164" y="-206"/>
+			<point x="197" y="-214"/>
+		</contour>
+	</outline>
+	<anchor name="_bottom" x="263" y="0"/>
+	<guideline x="144" y="-193" angle="82"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

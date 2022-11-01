@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="282" y="-8" type="curve" smooth="yes"/>
+			<point x="394" y="-8"/>
+			<point x="457" y="50"/>
+			<point x="457" y="137" type="curve" smooth="yes"/>
+			<point x="457" y="200"/>
+			<point x="427" y="237"/>
+			<point x="357" y="245" type="curve"/>
+			<point x="449" y="308" type="line"/>
+			<point x="449" y="410" type="line"/>
+			<point x="142" y="410" type="line"/>
+			<point x="142" y="312" type="line"/>
+			<point x="305" y="312" type="line"/>
+			<point x="201" y="232" type="line"/>
+			<point x="201" y="164" type="line"/>
+			<point x="220" y="167"/>
+			<point x="234" y="169"/>
+			<point x="263" y="169" type="curve" smooth="yes"/>
+			<point x="306" y="169"/>
+			<point x="331" y="161"/>
+			<point x="331" y="135" type="curve" smooth="yes"/>
+			<point x="331" y="112"/>
+			<point x="310" y="93"/>
+			<point x="266" y="93" type="curve" smooth="yes"/>
+			<point x="228" y="93"/>
+			<point x="184" y="104"/>
+			<point x="140" y="128" type="curve"/>
+			<point x="140" y="24" type="line"/>
+			<point x="180" y="4"/>
+			<point x="222" y="-8"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 15:18:32 +0000</string>
+		</dict>
+	</lib>
+</glyph>

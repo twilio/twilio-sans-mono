@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft_hyphen.rem" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="59" y="792" type="line"/>
+			<point x="-103" y="792" type="line" smooth="yes"/>
+			<point x="-213" y="792"/>
+			<point x="-275" y="736"/>
+			<point x="-275" y="652" type="curve" smooth="yes"/>
+			<point x="-275" y="569"/>
+			<point x="-203" y="494"/>
+			<point x="-203" y="430" type="curve" smooth="yes"/>
+			<point x="-203" y="386"/>
+			<point x="-234" y="355"/>
+			<point x="-301" y="355" type="curve" smooth="yes"/>
+			<point x="-375" y="355" type="line"/>
+			<point x="-387" y="272" type="line"/>
+			<point x="-303" y="272" type="line" smooth="yes"/>
+			<point x="-255" y="272"/>
+			<point x="-236" y="243"/>
+			<point x="-236" y="213" type="curve" smooth="yes"/>
+			<point x="-236" y="135"/>
+			<point x="-374" y="83"/>
+			<point x="-374" y="-36" type="curve" smooth="yes"/>
+			<point x="-374" y="-105"/>
+			<point x="-330" y="-163"/>
+			<point x="-220" y="-163" type="curve" smooth="yes"/>
+			<point x="-75" y="-163" type="line"/>
+			<point x="-65" y="-93" type="line"/>
+			<point x="-188" y="-93" type="line" smooth="yes"/>
+			<point x="-247" y="-93"/>
+			<point x="-278" y="-70"/>
+			<point x="-278" y="-23" type="curve" smooth="yes"/>
+			<point x="-278" y="68"/>
+			<point x="-142" y="113"/>
+			<point x="-142" y="209" type="curve" smooth="yes"/>
+			<point x="-142" y="247"/>
+			<point x="-166" y="264"/>
+			<point x="-198" y="275" type="curve"/>
+			<point x="425" y="275" type="line"/>
+			<point x="438" y="355" type="line"/>
+			<point x="-184" y="355" type="line"/>
+			<point x="-144" y="367"/>
+			<point x="-110" y="390"/>
+			<point x="-110" y="439" type="curve" smooth="yes"/>
+			<point x="-110" y="506"/>
+			<point x="-184" y="574"/>
+			<point x="-184" y="644" type="curve" smooth="yes"/>
+			<point x="-184" y="704"/>
+			<point x="-142" y="722"/>
+			<point x="-78" y="722" type="curve" smooth="yes"/>
+			<point x="49" y="722" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

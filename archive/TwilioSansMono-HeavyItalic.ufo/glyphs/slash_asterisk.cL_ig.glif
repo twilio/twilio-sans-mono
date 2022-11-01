@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash_asterisk.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="57" y="117" type="line"/>
+			<point x="209" y="251" type="line"/>
+			<point x="133" y="69" type="line"/>
+			<point x="316" y="69" type="line"/>
+			<point x="290" y="250" type="line"/>
+			<point x="402" y="117" type="line"/>
+			<point x="517" y="274" type="line"/>
+			<point x="342" y="321" type="line"/>
+			<point x="531" y="368" type="line"/>
+			<point x="463" y="526" type="line"/>
+			<point x="309" y="390" type="line"/>
+			<point x="387" y="575" type="line"/>
+			<point x="204" y="575" type="line"/>
+			<point x="229" y="392" type="line"/>
+			<point x="114" y="528" type="line"/>
+			<point x="1" y="370" type="line"/>
+			<point x="179" y="322" type="line"/>
+			<point x="-11" y="275" type="line"/>
+		</contour>
+		<contour>
+			<point x="-109" y="792" type="line"/>
+			<point x="-560" y="-163" type="line"/>
+			<point x="-365" y="-163" type="line"/>
+			<point x="87" y="792" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 12:04:00 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

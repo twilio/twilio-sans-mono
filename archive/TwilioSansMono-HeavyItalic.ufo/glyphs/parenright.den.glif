@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="126" y="49" type="curve"/>
+			<point x="168" y="-55" type="line"/>
+			<point x="322" y="-10"/>
+			<point x="396" y="72"/>
+			<point x="415" y="207" type="curve" smooth="yes"/>
+			<point x="433" y="338"/>
+			<point x="379" y="439"/>
+			<point x="241" y="493" type="curve"/>
+			<point x="178" y="396" type="line"/>
+			<point x="284" y="350"/>
+			<point x="305" y="294"/>
+			<point x="294" y="215" type="curve" smooth="yes"/>
+			<point x="283" y="135"/>
+			<point x="241" y="79"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 12:04:00 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+			<string>==|parenleft.den</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==|parenleft.den</string>
+		</dict>
+	</lib>
+</glyph>

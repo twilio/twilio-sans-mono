@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.ss01" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="113" y="-204" type="curve" smooth="yes"/>
+			<point x="195" y="-204"/>
+			<point x="248" y="-162"/>
+			<point x="284" y="-86" type="curve" smooth="yes"/>
+			<point x="574" y="523" type="line"/>
+			<point x="474" y="523" type="line"/>
+			<point x="272" y="72" type="line"/>
+			<point x="196" y="523" type="line"/>
+			<point x="100" y="523" type="line"/>
+			<point x="195" y="5" type="line"/>
+			<point x="240" y="5" type="line"/>
+			<point x="210" y="-54" type="line" smooth="yes"/>
+			<point x="185" y="-109"/>
+			<point x="152" y="-132"/>
+			<point x="105" y="-132" type="curve" smooth="yes"/>
+			<point x="80" y="-132"/>
+			<point x="58" y="-127"/>
+			<point x="42" y="-121" type="curve"/>
+			<point x="32" y="-190" type="line"/>
+			<point x="51" y="-198"/>
+			<point x="77" y="-204"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="335" y="523"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

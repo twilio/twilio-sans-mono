@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal_greater.rem" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-451" y="151" type="line"/>
+			<point x="183" y="151" type="line"/>
+			<point x="32" y="0" type="line"/>
+			<point x="183" y="0" type="line"/>
+			<point x="490" y="311" type="line"/>
+			<point x="261" y="629" type="line"/>
+			<point x="123" y="629" type="line"/>
+			<point x="232" y="478" type="line"/>
+			<point x="-405" y="478" type="line"/>
+			<point x="-420" y="371" type="line"/>
+			<point x="309" y="371" type="line"/>
+			<point x="348" y="317" type="line"/>
+			<point x="289" y="258" type="line"/>
+			<point x="-436" y="258" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

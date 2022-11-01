@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashshort" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="486" y="547" type="line"/>
+			<point x="436" y="480" type="line"/>
+			<point x="419" y="457" type="line"/>
+			<point x="158" y="108" type="line"/>
+			<point x="139" y="82" type="line"/>
+			<point x="60" y="-24" type="line"/>
+			<point x="116" y="-24" type="line"/>
+			<point x="168" y="46" type="line"/>
+			<point x="185" y="68" type="line"/>
+			<point x="447" y="421" type="line"/>
+			<point x="467" y="447" type="line"/>
+			<point x="542" y="547" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_center" x="300" y="274"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+		</dict>
+	</lib>
+</glyph>

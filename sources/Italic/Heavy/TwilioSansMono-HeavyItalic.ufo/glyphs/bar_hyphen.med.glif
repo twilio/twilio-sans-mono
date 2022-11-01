@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar_hyphen.med" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="166" y="-55" type="line"/>
+			<point x="346" y="-55" type="line"/>
+			<point x="386" y="228" type="line"/>
+			<point x="595" y="228" type="line"/>
+			<point x="619" y="400" type="line"/>
+			<point x="410" y="400" type="line"/>
+			<point x="450" y="684" type="line"/>
+			<point x="270" y="684" type="line"/>
+			<point x="230" y="400" type="line"/>
+			<point x="19" y="400" type="line"/>
+			<point x="-5" y="228" type="line"/>
+			<point x="206" y="228" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 12:07:58 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,111 @@
+[TwilioSansMono-Light]
+    f=Twilio Sans Mono
+    s=Light
+    l=Twilio Sans Mono Light
+    m=1,Twilio Sans Mono Light
+
+
+[TwilioSansMono-LightItl]
+    f=Twilio Sans Mono
+    s=Light Italic
+    l=Twilio Sans Mono Light
+    m=1,Twilio Sans Mono Light Itl
+
+
+[TwilioSansMono-Regular]
+    f=Twilio Sans Mono
+    s=Regular
+    l=Twilio Sans Mono
+    m=1,Twilio Sans Mono Regular
+
+
+[TwilioSansMono-RegularItl]
+    f=Twilio Sans Mono
+    s=Regular Italic
+    l=Twilio Sans Mono
+    m=1,Twilio Sans Mono Regular Itl
+
+
+[TwilioSansMono-Retina]
+    f=Twilio Sans Mono
+    s=Retina
+    l=Twilio Sans Mono Retina
+    m=1,Twilio Sans Mono Retina
+
+
+[TwilioSansMono-RetinaItl]
+    f=Twilio Sans Mono
+    s=Retina Italic
+    l=Twilio Sans Mono Retina
+    m=1,Twilio Sans Mono Retina Itl
+
+
+[TwilioSansMono-Medium]
+    f=Twilio Sans Mono
+    s=Medium
+    l=Twilio Sans Mono Medium
+    m=1,Twilio Sans Mono Medium
+
+
+[TwilioSansMono-MediumItl]
+    f=Twilio Sans Mono
+    s=Medium Italic
+    l=Twilio Sans Mono Medium
+    m=1,Twilio Sans Mono Medium Itl
+
+
+[TwilioSansMono-Semibold]
+    f=Twilio Sans Mono
+    s=Semibold
+    l=Twilio Sans Mono SmBld
+    m=1,Twilio Sans Mono SmBld
+
+
+[TwilioSansMono-SemiboldItl]
+    f=Twilio Sans Mono
+    s=Semibold Italic
+    l=Twilio Sans Mono SmBld
+    m=1,Twilio Sans Mono SmBld Itl
+
+
+[TwilioSansMono-Bold]
+    f=Twilio Sans Mono
+    s=Bold
+    l=Twilio Sans Mono
+    m=1,Twilio Sans Mono Bold
+
+
+[TwilioSansMono-BoldItl]
+    f=Twilio Sans Mono
+    s=Bold Italic
+    l=Twilio Sans Mono
+    m=1,Twilio Sans Mono Bold Itl
+
+
+[TwilioSansMono-Extrabold]
+    f=Twilio Sans Mono
+    s=Extrabold
+    l=Twilio Sans Mono ExBld
+    m=1,Twilio Sans Mono ExBld
+
+
+[TwilioSansMono-ExtraboldItl]
+    f=Twilio Sans Mono
+    s=Extrabold Italic
+    l=Twilio Sans Mono ExBld
+    m=1,Twilio Sans Mono ExBld Itl
+
+
+[TwilioSansMono-Heavy]
+    f=Twilio Sans Mono
+    s=Heavy
+    l=Twilio Sans Mono Heavy
+    m=1,Twilio Sans Mono Heavy
+
+
+[TwilioSansMono-HeavyItl]
+    f=Twilio Sans Mono
+    s=Heavy Italic
+    l=Twilio Sans Mono Heavy
+    m=1,Twilio Sans Mono Heavy Itl
+

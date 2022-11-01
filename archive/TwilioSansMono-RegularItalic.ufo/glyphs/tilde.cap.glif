@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.cap" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="210" y="754" type="curve"/>
+			<point x="271" y="754" type="line"/>
+			<point x="276" y="792"/>
+			<point x="290" y="813"/>
+			<point x="312" y="813" type="curve"/>
+			<point x="354" y="813"/>
+			<point x="383" y="750"/>
+			<point x="446" y="750" type="curve" smooth="yes"/>
+			<point x="497" y="750"/>
+			<point x="532" y="782"/>
+			<point x="544" y="866" type="curve"/>
+			<point x="483" y="866" type="line"/>
+			<point x="478" y="827"/>
+			<point x="467" y="807"/>
+			<point x="443" y="807" type="curve" smooth="yes"/>
+			<point x="402" y="807"/>
+			<point x="369" y="870"/>
+			<point x="308" y="870" type="curve" smooth="yes"/>
+			<point x="252" y="870"/>
+			<point x="222" y="828"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="359" y="684"/>
+</glyph>

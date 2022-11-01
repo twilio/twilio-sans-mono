@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash_equal_equal.rem" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-648" y="792" type="line"/>
+			<point x="-1154" y="-163" type="line"/>
+			<point x="-1059" y="-163" type="line"/>
+			<point x="-884" y="166" type="line"/>
+			<point x="400" y="166" type="line"/>
+			<point x="412" y="248" type="line"/>
+			<point x="-841" y="248" type="line"/>
+			<point x="-770" y="380" type="line"/>
+			<point x="430" y="380" type="line"/>
+			<point x="442" y="462" type="line"/>
+			<point x="-727" y="462" type="line"/>
+			<point x="-552" y="792" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

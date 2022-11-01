@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="2">
+	<unicode hex="007B"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="73" y="234" type="line"/>
+			<point x="173" y="234" type="line" smooth="yes"/>
+			<point x="205" y="234"/>
+			<point x="223" y="205"/>
+			<point x="223" y="179" type="curve" smooth="yes"/>
+			<point x="223" y="122"/>
+			<point x="131" y="72"/>
+			<point x="131" y="-22" type="curve" smooth="yes"/>
+			<point x="131" y="-98"/>
+			<point x="197" y="-163"/>
+			<point x="308" y="-163" type="curve" smooth="yes"/>
+			<point x="519" y="-163" type="line"/>
+			<point x="519" y="-26" type="line"/>
+			<point x="387" y="-26" type="line" smooth="yes"/>
+			<point x="344" y="-26"/>
+			<point x="330" y="-8"/>
+			<point x="330" y="14" type="curve" smooth="yes"/>
+			<point x="330" y="62"/>
+			<point x="422" y="109"/>
+			<point x="422" y="187" type="curve" smooth="yes"/>
+			<point x="422" y="244"/>
+			<point x="370" y="300"/>
+			<point x="289" y="313" type="curve"/>
+			<point x="370" y="325"/>
+			<point x="422" y="381"/>
+			<point x="422" y="438" type="curve" smooth="yes"/>
+			<point x="422" y="517"/>
+			<point x="330" y="564"/>
+			<point x="330" y="616" type="curve" smooth="yes"/>
+			<point x="330" y="643"/>
+			<point x="345" y="655"/>
+			<point x="379" y="655" type="curve" smooth="yes"/>
+			<point x="519" y="655" type="line"/>
+			<point x="519" y="792" type="line"/>
+			<point x="308" y="792" type="line" smooth="yes"/>
+			<point x="194" y="792"/>
+			<point x="131" y="724"/>
+			<point x="131" y="649" type="curve" smooth="yes"/>
+			<point x="131" y="554"/>
+			<point x="223" y="505"/>
+			<point x="223" y="446" type="curve" smooth="yes"/>
+			<point x="223" y="420"/>
+			<point x="205" y="392"/>
+			<point x="173" y="392" type="curve" smooth="yes"/>
+			<point x="73" y="392" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="131" y="649" angle="90"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 05:48:07 +0000</string>
+		</dict>
+	</lib>
+</glyph>

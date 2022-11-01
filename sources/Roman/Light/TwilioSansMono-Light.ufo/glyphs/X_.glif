@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+	<unicode hex="0058"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="41" y="0" type="line"/>
+			<point x="107" y="0" type="line"/>
+			<point x="299" y="317" type="line"/>
+			<point x="493" y="0" type="line"/>
+			<point x="559" y="0" type="line"/>
+			<point x="335" y="360" type="line"/>
+			<point x="545" y="684" type="line"/>
+			<point x="478" y="684" type="line"/>
+			<point x="300" y="404" type="line"/>
+			<point x="122" y="684" type="line"/>
+			<point x="55" y="684" type="line"/>
+			<point x="267" y="361" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="309" y="0"/>
+	<anchor name="top" x="304" y="684"/>
+	<guideline x="332" y="479" angle="0"/>
+	<guideline x="108" y="720" angle="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==|X</string>
+			<key>com.typemytype.robofont.guideline.showMeasurements.UmxaIbgvrn</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.guideline.showMeasurements.j8VrhqjI0a</key>
+			<integer>1</integer>
+		</dict>
+	</lib>
+</glyph>

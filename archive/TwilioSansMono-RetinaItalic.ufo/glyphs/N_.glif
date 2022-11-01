@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="2">
+	<unicode hex="004E"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="37" y="0" type="line"/>
+			<point x="125" y="0" type="line"/>
+			<point x="172" y="340" type="line" smooth="yes"/>
+			<point x="186" y="433"/>
+			<point x="188" y="502"/>
+			<point x="190" y="575" type="curve"/>
+			<point x="196" y="575" type="line"/>
+			<point x="372" y="0" type="line"/>
+			<point x="490" y="0" type="line"/>
+			<point x="586" y="684" type="line"/>
+			<point x="498" y="684" type="line"/>
+			<point x="450" y="345" type="line" smooth="yes"/>
+			<point x="436" y="246"/>
+			<point x="434" y="183"/>
+			<point x="433" y="109" type="curve"/>
+			<point x="427" y="109" type="line"/>
+			<point x="251" y="684" type="line"/>
+			<point x="133" y="684" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="245" y="0"/>
+	<anchor name="top" x="378" y="684"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>com.typemytype.robofont.guideline.showMeasurements.O1O2Mhufbg</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.guideline.showMeasurements.eiyAnoeHhx</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.guideline.showMeasurements.ptdBiPSe4z</key>
+			<integer>1</integer>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.dnom" format="2">
+	<advance width="600"/>
+	<outline>
+		<component base="eight.numr" yOffset="-406"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>adjustSpace</key>
+				<integer>83</integer>
+				<key>height</key>
+				<integer>85</integer>
+				<key>verticalShift</key>
+				<integer>-25</integer>
+				<key>weight</key>
+				<integer>-4</integer>
+				<key>width</key>
+				<integer>85</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>public.markColor</key>
+			<string>0,0.9811,0.5737,1</string>
+		</dict>
+	</lib>
+</glyph>

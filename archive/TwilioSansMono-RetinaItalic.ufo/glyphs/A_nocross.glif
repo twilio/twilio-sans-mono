@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Anocross" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-15" y="0" type="line"/>
+			<point x="85" y="0" type="line"/>
+			<point x="349" y="609" type="line"/>
+			<point x="444" y="0" type="line"/>
+			<point x="541" y="0" type="line"/>
+			<point x="422" y="687" type="line"/>
+			<point x="295" y="687" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="281" y="0"/>
+	<anchor name="ogonek" x="541" y="0"/>
+	<anchor name="top" x="358" y="684"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>A</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="2">
+	<unicode hex="00A5"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="28" y="131" type="line"/>
+			<point x="178" y="131" type="line"/>
+			<point x="159" y="0" type="line"/>
+			<point x="359" y="0" type="line"/>
+			<point x="377" y="131" type="line"/>
+			<point x="527" y="131" type="line"/>
+			<point x="541" y="235" type="line"/>
+			<point x="392" y="235" type="line"/>
+			<point x="392" y="236" type="line"/>
+			<point x="419" y="281" type="line"/>
+			<point x="547" y="281" type="line"/>
+			<point x="561" y="384" type="line"/>
+			<point x="480" y="384" type="line"/>
+			<point x="659" y="684" type="line"/>
+			<point x="446" y="684" type="line"/>
+			<point x="329" y="463" type="line"/>
+			<point x="273" y="684" type="line"/>
+			<point x="59" y="684" type="line"/>
+			<point x="149" y="384" type="line"/>
+			<point x="63" y="384" type="line"/>
+			<point x="48" y="281" type="line"/>
+			<point x="180" y="281" type="line"/>
+			<point x="193" y="237" type="line"/>
+			<point x="192" y="235" type="line"/>
+			<point x="43" y="235" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 12:04:00 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Y</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Y</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

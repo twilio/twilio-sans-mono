@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater_greater_equal.fina" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="18" y="0" type="line"/>
+			<point x="217" y="0" type="line"/>
+			<point x="501" y="312" type="line"/>
+			<point x="274" y="629" type="line"/>
+			<point x="91" y="629" type="line"/>
+			<point x="314" y="319" type="line"/>
+		</contour>
+		<contour>
+			<point x="-618" y="131" type="line"/>
+			<point x="-257" y="131" type="line"/>
+			<point x="-383" y="0" type="line"/>
+			<point x="-185" y="0" type="line"/>
+			<point x="109" y="311" type="line"/>
+			<point x="-112" y="629" type="line"/>
+			<point x="-294" y="629" type="line"/>
+			<point x="-203" y="498" type="line"/>
+			<point x="-566" y="498" type="line"/>
+			<point x="-586" y="359" type="line"/>
+			<point x="-106" y="359" type="line"/>
+			<point x="-77" y="317" type="line"/>
+			<point x="-122" y="270" type="line"/>
+			<point x="-598" y="270" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 13:57:04 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

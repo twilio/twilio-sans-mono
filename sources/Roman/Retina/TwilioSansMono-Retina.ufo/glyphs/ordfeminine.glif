@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="2">
+	<unicode hex="00AA"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="237" y="224" type="curve" smooth="yes"/>
+			<point x="310" y="224"/>
+			<point x="367" y="265"/>
+			<point x="396" y="329" type="curve"/>
+			<point x="396" y="235" type="line"/>
+			<point x="474" y="235" type="line"/>
+			<point x="474" y="532" type="line"/>
+			<point x="474" y="642"/>
+			<point x="402" y="696"/>
+			<point x="281" y="696" type="curve" smooth="yes"/>
+			<point x="204" y="696"/>
+			<point x="146" y="672"/>
+			<point x="113" y="647" type="curve"/>
+			<point x="113" y="575" type="line"/>
+			<point x="159" y="614"/>
+			<point x="215" y="633"/>
+			<point x="275" y="633" type="curve" smooth="yes"/>
+			<point x="353" y="633"/>
+			<point x="395" y="598"/>
+			<point x="395" y="526" type="curve"/>
+			<point x="395" y="514" type="line"/>
+			<point x="306" y="502" type="line" smooth="yes"/>
+			<point x="165" y="482"/>
+			<point x="103" y="425"/>
+			<point x="103" y="345" type="curve" smooth="yes"/>
+			<point x="103" y="269"/>
+			<point x="157" y="224"/>
+		</contour>
+		<contour>
+			<point x="266" y="284" type="curve" smooth="yes"/>
+			<point x="219" y="284"/>
+			<point x="181" y="307"/>
+			<point x="181" y="355" type="curve" smooth="yes"/>
+			<point x="181" y="407"/>
+			<point x="216" y="437"/>
+			<point x="313" y="451" type="curve" smooth="yes"/>
+			<point x="395" y="463" type="line"/>
+			<point x="395" y="414" type="line" smooth="yes"/>
+			<point x="395" y="325"/>
+			<point x="328" y="284"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="238" y="234"/>
+	<anchor name="ogonek" x="419" y="235"/>
+	<anchor name="right" x="436" y="235"/>
+	<anchor name="top" x="240" y="685"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+		</dict>
+	</lib>
+</glyph>

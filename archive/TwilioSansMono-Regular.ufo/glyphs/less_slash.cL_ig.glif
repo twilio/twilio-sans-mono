@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less_slash.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-53" y="579" type="line"/>
+			<point x="-496" y="361" type="line"/>
+			<point x="-496" y="268" type="line"/>
+			<point x="88" y="-22" type="line"/>
+			<point x="32" y="-163" type="line"/>
+			<point x="117" y="-163" type="line"/>
+			<point x="496" y="792" type="line"/>
+			<point x="410" y="792" type="line"/>
+			<point x="116" y="49" type="line"/>
+			<point x="-423" y="315" type="line"/>
+			<point x="-53" y="494" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 13:12:18 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

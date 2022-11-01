@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore_bar_underscore.rem" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-1090" y="-66" type="line"/>
+			<point x="-1106" y="-187" type="line"/>
+			<point x="-658" y="-187" type="line"/>
+			<point x="-658" y="-188" type="line"/>
+			<point x="-58" y="-188" type="line"/>
+			<point x="-58" y="-187" type="line"/>
+			<point x="381" y="-187" type="line"/>
+			<point x="397" y="-66" type="line"/>
+			<point x="-41" y="-66" type="line"/>
+			<point x="-41" y="-65" type="line"/>
+			<point x="-268" y="-65" type="line"/>
+			<point x="-148" y="792" type="line"/>
+			<point x="-303" y="792" type="line"/>
+			<point x="-423" y="-65" type="line"/>
+			<point x="-641" y="-65" type="line"/>
+			<point x="-641" y="-66" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

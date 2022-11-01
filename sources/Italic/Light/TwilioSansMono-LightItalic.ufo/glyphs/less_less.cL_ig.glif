@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less_less.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-99" y="61" type="line"/>
+			<point x="-90" y="118" type="line"/>
+			<point x="-451" y="313" type="line"/>
+			<point x="-36" y="509" type="line"/>
+			<point x="-27" y="570" type="line"/>
+			<point x="-498" y="345" type="line"/>
+			<point x="-506" y="286" type="line"/>
+		</contour>
+		<contour>
+			<point x="471" y="61" type="line"/>
+			<point x="480" y="118" type="line"/>
+			<point x="119" y="313" type="line"/>
+			<point x="534" y="509" type="line"/>
+			<point x="543" y="570" type="line"/>
+			<point x="72" y="345" type="line"/>
+			<point x="64" y="286" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

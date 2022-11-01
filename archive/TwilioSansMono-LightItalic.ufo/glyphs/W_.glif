@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="2">
+	<unicode hex="0057"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="89" y="0" type="line"/>
+			<point x="169" y="0" type="line"/>
+			<point x="323" y="449" type="line"/>
+			<point x="329" y="449" type="line"/>
+			<point x="357" y="0" type="line"/>
+			<point x="437" y="0" type="line"/>
+			<point x="616" y="684" type="line"/>
+			<point x="561" y="684" type="line"/>
+			<point x="405" y="62" type="line"/>
+			<point x="401" y="62" type="line"/>
+			<point x="373" y="518" type="line"/>
+			<point x="299" y="518" type="line"/>
+			<point x="144" y="62" type="line"/>
+			<point x="138" y="62" type="line"/>
+			<point x="156" y="684" type="line"/>
+			<point x="102" y="684" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="359" y="684"/>
+	<guideline x="313" y="121" angle="90"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>com.typemytype.robofont.guideline.showMeasurements.CdINlwl30x</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.guideline.showMeasurements.ESm4zNQriX</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.guideline.showMeasurements.nYUn3bFuVD</key>
+			<integer>1</integer>
+		</dict>
+	</lib>
+</glyph>

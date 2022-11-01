@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash_greater.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="43" y="37" type="line"/>
+			<point x="490" y="246" type="line"/>
+			<point x="490" y="384" type="line"/>
+			<point x="-74" y="655" type="line"/>
+			<point x="-22" y="792" type="line"/>
+			<point x="-144" y="792" type="line"/>
+			<point x="-502" y="-163" type="line"/>
+			<point x="-381" y="-163" type="line"/>
+			<point x="-112" y="554" type="line"/>
+			<point x="387" y="314" type="line"/>
+			<point x="43" y="158" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

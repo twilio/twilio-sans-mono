@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal.fina" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="18" y="383" type="line"/>
+			<point x="444" y="383" type="line"/>
+			<point x="455" y="458" type="line"/>
+			<point x="28" y="458" type="line"/>
+		</contour>
+		<contour>
+			<point x="-12" y="171" type="line"/>
+			<point x="414" y="171" type="line"/>
+			<point x="425" y="246" type="line"/>
+			<point x="-2" y="246" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onethirdemdash" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="410" y="342" type="line"/>
+			<point x="212" y="342" type="line"/>
+			<point x="200" y="256" type="line"/>
+			<point x="398" y="256" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

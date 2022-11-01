@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut.cap" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="366" y="747" type="line"/>
+			<point x="434" y="747" type="line"/>
+			<point x="536" y="884" type="line"/>
+			<point x="445" y="884" type="line"/>
+		</contour>
+		<contour>
+			<point x="219" y="747" type="line"/>
+			<point x="288" y="747" type="line"/>
+			<point x="389" y="884" type="line"/>
+			<point x="298" y="884" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="317" y="684"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

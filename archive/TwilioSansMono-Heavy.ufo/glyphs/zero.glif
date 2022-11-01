@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero" format="2">
+	<unicode hex="0030"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="300" y="-14" type="curve" smooth="yes"/>
+			<point x="475" y="-14"/>
+			<point x="567" y="103"/>
+			<point x="567" y="335" type="curve" smooth="yes"/>
+			<point x="567" y="349" type="line" smooth="yes"/>
+			<point x="567" y="581"/>
+			<point x="475" y="698"/>
+			<point x="300" y="698" type="curve" smooth="yes"/>
+			<point x="125" y="698"/>
+			<point x="33" y="581"/>
+			<point x="33" y="349" type="curve" smooth="yes"/>
+			<point x="33" y="335" type="line" smooth="yes"/>
+			<point x="33" y="103"/>
+			<point x="125" y="-14"/>
+		</contour>
+		<contour>
+			<point x="300" y="145" type="curve" smooth="yes"/>
+			<point x="241" y="145"/>
+			<point x="210" y="179"/>
+			<point x="210" y="338" type="curve" smooth="yes"/>
+			<point x="210" y="345" type="line" smooth="yes"/>
+			<point x="210" y="505"/>
+			<point x="241" y="539"/>
+			<point x="300" y="539" type="curve" smooth="yes"/>
+			<point x="359" y="539"/>
+			<point x="390" y="505"/>
+			<point x="390" y="345" type="curve" smooth="yes"/>
+			<point x="390" y="338" type="line" smooth="yes"/>
+			<point x="390" y="179"/>
+			<point x="359" y="145"/>
+		</contour>
+		<contour>
+			<point x="300" y="243" type="curve" smooth="yes"/>
+			<point x="346" y="243"/>
+			<point x="369" y="271"/>
+			<point x="369" y="342" type="curve" smooth="yes"/>
+			<point x="369" y="413"/>
+			<point x="346" y="441"/>
+			<point x="300" y="441" type="curve" smooth="yes"/>
+			<point x="254" y="441"/>
+			<point x="231" y="412"/>
+			<point x="231" y="342" type="curve" smooth="yes"/>
+			<point x="231" y="271"/>
+			<point x="254" y="243"/>
+		</contour>
+	</outline>
+	<guideline x="298" y="559" angle="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 15:18:32 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==|zero</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O</string>
+		</dict>
+	</lib>
+</glyph>

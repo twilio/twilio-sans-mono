@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="204" y="0" type="line"/>
+			<point x="272" y="0" type="line"/>
+			<point x="450" y="348" type="line"/>
+			<point x="450" y="410" type="line"/>
+			<point x="152" y="410" type="line"/>
+			<point x="152" y="294" type="line"/>
+			<point x="207" y="294" type="line"/>
+			<point x="207" y="361" type="line"/>
+			<point x="390" y="361" type="line"/>
+		</contour>
+	</outline>
+</glyph>

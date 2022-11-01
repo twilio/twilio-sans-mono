@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="2">
+	<unicode hex="004D"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="59" y="0" type="line"/>
+			<point x="142" y="0" type="line"/>
+			<point x="142" y="375" type="line" smooth="yes"/>
+			<point x="142" y="418"/>
+			<point x="138" y="526"/>
+			<point x="132" y="591" type="curve"/>
+			<point x="138" y="591" type="line"/>
+			<point x="257" y="182" type="line"/>
+			<point x="341" y="182" type="line"/>
+			<point x="462" y="591" type="line"/>
+			<point x="469" y="591" type="line"/>
+			<point x="463" y="527"/>
+			<point x="458" y="450"/>
+			<point x="458" y="376" type="curve" smooth="yes"/>
+			<point x="458" y="0" type="line"/>
+			<point x="541" y="0" type="line"/>
+			<point x="541" y="685" type="line"/>
+			<point x="415" y="685" type="line"/>
+			<point x="302" y="278" type="line"/>
+			<point x="298" y="278" type="line"/>
+			<point x="185" y="685" type="line"/>
+			<point x="59" y="685" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="508.7050359712" y="720.7194244605" angle="90"/>
+	<guideline x="994.0935251799" y="164.2517985611" angle="90"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.typemytype.robofont.guideline.showMeasurements.e3whBg3p1c</key>
+			<integer>1</integer>
+		</dict>
+	</lib>
+</glyph>

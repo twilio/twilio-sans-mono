@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.sups" format="2">
+	<advance width="600"/>
+	<outline>
+		<component base="nine.den" xOffset="53" yOffset="378"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 12:04:00 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>nine.den</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>nine.den</string>
+			<key>public.markColor</key>
+			<string>0,0.9811,0.5737,1</string>
+		</dict>
+	</lib>
+</glyph>

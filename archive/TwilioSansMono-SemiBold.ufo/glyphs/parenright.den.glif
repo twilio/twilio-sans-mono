@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="163" y="15" type="curve"/>
+			<point x="196" y="-55" type="line"/>
+			<point x="341" y="-2"/>
+			<point x="403" y="89"/>
+			<point x="403" y="219" type="curve" smooth="yes"/>
+			<point x="403" y="349"/>
+			<point x="341" y="439"/>
+			<point x="196" y="492" type="curve"/>
+			<point x="163" y="422" type="line"/>
+			<point x="279" y="382"/>
+			<point x="316" y="311"/>
+			<point x="316" y="219" type="curve" smooth="yes"/>
+			<point x="316" y="126"/>
+			<point x="279" y="59"/>
+		</contour>
+	</outline>
+</glyph>

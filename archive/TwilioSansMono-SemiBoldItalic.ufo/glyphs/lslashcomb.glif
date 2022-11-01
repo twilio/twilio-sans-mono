@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslashcomb" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="21" y="352" type="line"/>
+			<point x="477" y="516" type="line"/>
+			<point x="490" y="608" type="line"/>
+			<point x="34" y="443" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_center" x="254" y="476"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

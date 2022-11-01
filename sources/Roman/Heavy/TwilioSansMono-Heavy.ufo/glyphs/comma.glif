@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="2">
+	<unicode hex="002C"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="209" y="207" type="line"/>
+			<point x="164" y="-175" type="line"/>
+			<point x="301" y="-175" type="line"/>
+			<point x="451" y="207" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="340" y="-158" angle="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 15:18:32 +0000</string>
+		</dict>
+	</lib>
+</glyph>

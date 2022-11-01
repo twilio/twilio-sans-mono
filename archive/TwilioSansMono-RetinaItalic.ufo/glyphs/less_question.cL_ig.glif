@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less_question.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-47" y="493" type="line" smooth="yes"/>
+			<point x="122" y="579"/>
+			<point x="215" y="614"/>
+			<point x="299" y="614" type="curve"/>
+			<point x="373" y="614"/>
+			<point x="411" y="579"/>
+			<point x="404" y="521" type="curve" smooth="yes"/>
+			<point x="389" y="410"/>
+			<point x="212" y="401"/>
+			<point x="190" y="245" type="curve" smooth="yes"/>
+			<point x="188" y="231"/>
+			<point x="188" y="215"/>
+			<point x="189" y="202" type="curve"/>
+			<point x="271" y="202" type="line"/>
+			<point x="277" y="245" type="line" smooth="yes"/>
+			<point x="294" y="357"/>
+			<point x="477" y="376"/>
+			<point x="498" y="525" type="curve" smooth="yes"/>
+			<point x="513" y="631"/>
+			<point x="442" y="698"/>
+			<point x="313" y="698" type="curve"/>
+			<point x="204" y="698"/>
+			<point x="95" y="654"/>
+			<point x="-51" y="580" type="curve" smooth="yes"/>
+			<point x="-472" y="365" type="line"/>
+			<point x="-486" y="263" type="line"/>
+			<point x="-83" y="21" type="line"/>
+			<point x="-69" y="109" type="line"/>
+			<point x="-409" y="310" type="line"/>
+		</contour>
+		<contour>
+			<point x="210" y="-12" type="curve" smooth="yes"/>
+			<point x="259" y="-12"/>
+			<point x="281" y="7"/>
+			<point x="286" y="49" type="curve" smooth="yes"/>
+			<point x="291" y="91"/>
+			<point x="274" y="115"/>
+			<point x="222" y="115" type="curve" smooth="yes"/>
+			<point x="172" y="115"/>
+			<point x="150" y="94"/>
+			<point x="145" y="55" type="curve" smooth="yes"/>
+			<point x="140" y="11"/>
+			<point x="158" y="-12"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 16:31:53 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

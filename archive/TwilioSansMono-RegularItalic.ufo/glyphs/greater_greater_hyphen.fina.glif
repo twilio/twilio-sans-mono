@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater_greater_hyphen.fina" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="60" y="0" type="line"/>
+			<point x="167" y="0" type="line"/>
+			<point x="484" y="314" type="line"/>
+			<point x="241" y="629" type="line"/>
+			<point x="145" y="629" type="line"/>
+			<point x="384" y="320" type="line"/>
+		</contour>
+		<contour>
+			<point x="-587" y="353" type="line"/>
+			<point x="-598" y="276" type="line"/>
+			<point x="-406" y="276" type="line"/>
+			<point x="-26" y="275" type="line"/>
+			<point x="-312" y="0" type="line"/>
+			<point x="-207" y="0" type="line"/>
+			<point x="115" y="314" type="line"/>
+			<point x="-124" y="629" type="line"/>
+			<point x="-219" y="629" type="line"/>
+			<point x="-8" y="352" type="line"/>
+			<point x="-161" y="353" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 13:58:11 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

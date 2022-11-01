@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="2">
+	<unicode hex="0042"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="342" y="685" type="curve" smooth="yes"/>
+			<point x="77" y="685" type="line"/>
+			<point x="77" y="0" type="line"/>
+			<point x="341" y="0" type="line" smooth="yes"/>
+			<point x="480" y="0"/>
+			<point x="548" y="81"/>
+			<point x="548" y="186" type="curve" smooth="yes"/>
+			<point x="548" y="280"/>
+			<point x="499" y="336"/>
+			<point x="400" y="351" type="curve"/>
+			<point x="485" y="369"/>
+			<point x="535" y="427"/>
+			<point x="535" y="512" type="curve" smooth="yes"/>
+			<point x="535" y="620"/>
+			<point x="472" y="685"/>
+		</contour>
+		<contour>
+			<point x="322" y="610" type="line" smooth="yes"/>
+			<point x="406" y="610"/>
+			<point x="439" y="565"/>
+			<point x="439" y="499" type="curve" smooth="yes"/>
+			<point x="439" y="433"/>
+			<point x="399" y="383"/>
+			<point x="322" y="383" type="curve" smooth="yes"/>
+			<point x="172" y="383" type="line"/>
+			<point x="172" y="610" type="line"/>
+		</contour>
+		<contour>
+			<point x="321" y="309" type="line" smooth="yes"/>
+			<point x="415" y="309"/>
+			<point x="448" y="258"/>
+			<point x="448" y="193" type="curve" smooth="yes"/>
+			<point x="448" y="135"/>
+			<point x="422" y="78"/>
+			<point x="323" y="78" type="curve" smooth="yes"/>
+			<point x="172" y="78" type="line"/>
+			<point x="172" y="309" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="324" y="0"/>
+	<anchor name="top" x="309" y="684"/>
+	<guideline x="530.3669064749" y="427.6618705036" angle="90"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.typemytype.robofont.guideline.showMeasurements.5bviN0P9c7</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.guideline.showMeasurements.XlOEmCMFDu</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.guideline.showMeasurements.j28jQzfdcJ</key>
+			<integer>1</integer>
+		</dict>
+	</lib>
+</glyph>

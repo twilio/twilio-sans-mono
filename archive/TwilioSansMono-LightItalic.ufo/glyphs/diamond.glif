@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diamond" format="2">
+	<unicode hex="2666"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="125" y="364" type="line"/>
+			<point x="446" y="-10" type="line"/>
+			<point x="766" y="364" type="line"/>
+			<point x="446" y="734" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

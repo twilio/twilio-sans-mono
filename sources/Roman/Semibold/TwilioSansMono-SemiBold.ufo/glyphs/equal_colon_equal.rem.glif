@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal_colon_equal.rem" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-300" y="59" type="curve" smooth="yes"/>
+			<point x="-239" y="59"/>
+			<point x="-207" y="82"/>
+			<point x="-207" y="144" type="curve" smooth="yes"/>
+			<point x="-207" y="204"/>
+			<point x="-239" y="226"/>
+			<point x="-300" y="226" type="curve" smooth="yes"/>
+			<point x="-361" y="226"/>
+			<point x="-393" y="204"/>
+			<point x="-393" y="144" type="curve" smooth="yes"/>
+			<point x="-393" y="82"/>
+			<point x="-361" y="59"/>
+		</contour>
+		<contour>
+			<point x="-300" y="350" type="curve" smooth="yes"/>
+			<point x="-239" y="350"/>
+			<point x="-207" y="373"/>
+			<point x="-207" y="435" type="curve" smooth="yes"/>
+			<point x="-207" y="495"/>
+			<point x="-239" y="517"/>
+			<point x="-300" y="517" type="curve" smooth="yes"/>
+			<point x="-361" y="517"/>
+			<point x="-393" y="495"/>
+			<point x="-393" y="435" type="curve" smooth="yes"/>
+			<point x="-393" y="373"/>
+			<point x="-361" y="350"/>
+		</contour>
+		<contour>
+			<point x="-1035.6244604323" y="350" type="line"/>
+			<point x="-551.0230215877" y="350" type="line"/>
+			<point x="-551.0230215877" y="456" type="line"/>
+			<point x="-1035.6244604323" y="456" type="line"/>
+		</contour>
+		<contour>
+			<point x="-1035.6244604323" y="131" type="line"/>
+			<point x="-551.0230215877" y="131" type="line"/>
+			<point x="-551.0230215877" y="237" type="line"/>
+			<point x="-1035.6244604323" y="237" type="line"/>
+		</contour>
+		<contour>
+			<point x="-48.6244604323" y="350" type="line"/>
+			<point x="435.9769784123" y="350" type="line"/>
+			<point x="435.9769784123" y="456" type="line"/>
+			<point x="-48.6244604323" y="456" type="line"/>
+		</contour>
+		<contour>
+			<point x="-48.6244604323" y="131" type="line"/>
+			<point x="435.9769784123" y="131" type="line"/>
+			<point x="435.9769784123" y="237" type="line"/>
+			<point x="-48.6244604323" y="237" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

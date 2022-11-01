@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft_bar.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="62" y="-26" type="line"/>
+			<point x="-253" y="-26" type="line"/>
+			<point x="-157" y="655" type="line"/>
+			<point x="158" y="655" type="line"/>
+			<point x="177" y="792" type="line"/>
+			<point x="-319" y="792" type="line"/>
+			<point x="-453" y="-163" type="line"/>
+			<point x="43" y="-163" type="line"/>
+		</contour>
+		<contour>
+			<point x="286" y="792" type="line"/>
+			<point x="152" y="-163" type="line"/>
+			<point x="333" y="-163" type="line"/>
+			<point x="467" y="792" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 12:04:00 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

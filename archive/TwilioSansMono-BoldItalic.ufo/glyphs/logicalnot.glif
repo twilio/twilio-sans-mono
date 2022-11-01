@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="2">
+	<unicode hex="00AC"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="504" y="45" type="line"/>
+			<point x="546" y="356" type="line"/>
+			<point x="78" y="356" type="line"/>
+			<point x="62" y="233" type="line"/>
+			<point x="395" y="233" type="line"/>
+			<point x="371" y="45" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>plus</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>plus</string>
+		</dict>
+	</lib>
+</glyph>

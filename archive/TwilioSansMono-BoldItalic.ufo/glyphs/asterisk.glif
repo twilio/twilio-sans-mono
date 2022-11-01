@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="2">
+	<unicode hex="002A"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="462" y="139" type="line"/>
+			<point x="546" y="257" type="line"/>
+			<point x="371" y="321" type="line"/>
+			<point x="565" y="385" type="line"/>
+			<point x="515" y="503" type="line"/>
+			<point x="347" y="374" type="line"/>
+			<point x="412" y="567" type="line"/>
+			<point x="276" y="567" type="line"/>
+			<point x="285" y="375" type="line"/>
+			<point x="154" y="503" type="line"/>
+			<point x="69" y="386" type="line"/>
+			<point x="247" y="321" type="line"/>
+			<point x="53" y="257" type="line"/>
+			<point x="104" y="140" type="line"/>
+			<point x="270" y="267" type="line"/>
+			<point x="207" y="75" type="line"/>
+			<point x="343" y="75" type="line"/>
+			<point x="333" y="265" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>aster_comp</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>aster_comp</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>aster_comp</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

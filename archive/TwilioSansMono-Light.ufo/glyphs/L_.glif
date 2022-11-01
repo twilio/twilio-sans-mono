@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="2">
+	<unicode hex="004C"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="107" y="0" type="line"/>
+			<point x="530" y="0" type="line"/>
+			<point x="530" y="50" type="line"/>
+			<point x="162" y="50" type="line"/>
+			<point x="162" y="684" type="line"/>
+			<point x="107" y="684" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="318" y="0"/>
+	<anchor name="caron" x="324" y="684"/>
+	<anchor name="center" x="130" y="314"/>
+	<anchor name="top" x="135" y="684"/>
+	<guideline x="144" y="364" angle="0"/>
+	<guideline x="212" y="152" angle="90"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.typemytype.robofont.guideline.showMeasurements.xQp5XtRG0P</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.guideline.showMeasurements.y8j8ESTgAH</key>
+			<integer>1</integer>
+		</dict>
+	</lib>
+</glyph>

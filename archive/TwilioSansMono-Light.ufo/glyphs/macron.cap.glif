@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.cap" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="176" y="778" type="line"/>
+			<point x="424" y="778" type="line"/>
+			<point x="424" y="822" type="line"/>
+			<point x="176" y="822" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="300" y="684"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+		</dict>
+	</lib>
+</glyph>

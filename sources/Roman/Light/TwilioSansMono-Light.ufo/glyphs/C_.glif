@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="2">
+	<unicode hex="0043"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="374" y="-12" type="curve" smooth="yes"/>
+			<point x="444" y="-11"/>
+			<point x="484" y="-2"/>
+			<point x="528" y="26" type="curve"/>
+			<point x="528" y="80" type="line"/>
+			<point x="477" y="43"/>
+			<point x="418" y="37"/>
+			<point x="377" y="37" type="curve" smooth="yes"/>
+			<point x="222" y="37"/>
+			<point x="130" y="138"/>
+			<point x="130" y="337" type="curve" smooth="yes"/>
+			<point x="130" y="344" type="line" smooth="yes"/>
+			<point x="130" y="541"/>
+			<point x="221" y="647"/>
+			<point x="378" y="647" type="curve" smooth="yes"/>
+			<point x="424" y="647"/>
+			<point x="477" y="638"/>
+			<point x="525" y="608" type="curve"/>
+			<point x="525" y="665" type="line"/>
+			<point x="486" y="684"/>
+			<point x="437" y="696"/>
+			<point x="375" y="696" type="curve" smooth="yes"/>
+			<point x="187" y="696"/>
+			<point x="72" y="566"/>
+			<point x="72" y="350" type="curve" smooth="yes"/>
+			<point x="72" y="336" type="line" smooth="yes"/>
+			<point x="72" y="107"/>
+			<point x="184" y="-13"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="358" y="0"/>
+	<anchor name="top" x="370" y="684"/>
+	<guideline x="573" y="485" angle="90"/>
+	<guideline x="145" y="361" angle="0"/>
+	<guideline x="379" y="116" angle="90"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.typemytype.robofont.guideline.showMeasurements.1Fca0Mr5Rb</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.guideline.showMeasurements.w3ktBhw1dI</key>
+			<integer>1</integer>
+		</dict>
+	</lib>
+</glyph>

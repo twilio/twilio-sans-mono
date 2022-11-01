@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="2">
+	<unicode hex="0237"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="220" y="-204" type="curve" smooth="yes"/>
+			<point x="349" y="-204"/>
+			<point x="459" y="-160"/>
+			<point x="459" y="2" type="curve" smooth="yes"/>
+			<point x="459" y="523" type="line"/>
+			<point x="84" y="523" type="line"/>
+			<point x="84" y="447" type="line"/>
+			<point x="366" y="447" type="line"/>
+			<point x="366" y="13" type="line" smooth="yes"/>
+			<point x="366" y="-91"/>
+			<point x="320" y="-126"/>
+			<point x="210" y="-126" type="curve" smooth="yes"/>
+			<point x="157" y="-126"/>
+			<point x="112" y="-115"/>
+			<point x="84" y="-106" type="curve"/>
+			<point x="84" y="-182" type="line"/>
+			<point x="113" y="-194"/>
+			<point x="169" y="-204"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="413" y="523"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>j</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k.ss01" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="91" y="0" type="line"/>
+			<point x="144" y="0" type="line"/>
+			<point x="164" y="136" type="line"/>
+			<point x="289" y="263" type="line"/>
+			<point x="420" y="0" type="line"/>
+			<point x="480" y="0" type="line"/>
+			<point x="331" y="299" type="line"/>
+			<point x="546" y="523" type="line"/>
+			<point x="478" y="523" type="line"/>
+			<point x="172" y="200" type="line"/>
+			<point x="248" y="732" type="line"/>
+			<point x="195" y="732" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="272" y="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

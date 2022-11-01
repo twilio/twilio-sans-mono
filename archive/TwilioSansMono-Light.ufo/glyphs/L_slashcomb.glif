@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslashcomb" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="37" y="388" type="line"/>
+			<point x="37" y="338" type="line"/>
+			<point x="359" y="470" type="line"/>
+			<point x="359" y="520" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_center" x="142" y="398"/>
+	<guideline x="359" y="485" angle="207.7934"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+		</dict>
+	</lib>
+</glyph>

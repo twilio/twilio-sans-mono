@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarteremdash" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="541" y="377" type="line"/>
+			<point x="91" y="377" type="line"/>
+			<point x="66" y="201" type="line"/>
+			<point x="515" y="201" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="95" y="400" angle="82"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 12:04:00 +0000</string>
+		</dict>
+	</lib>
+</glyph>

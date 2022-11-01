@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokelong" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="53" y="535" type="line"/>
+			<point x="653" y="535" type="line"/>
+			<point x="653" y="598" type="line"/>
+			<point x="53" y="598" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_center" x="352" y="567"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+		</dict>
+	</lib>
+</glyph>

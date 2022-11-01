@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2196" format="2">
+	<unicode hex="2196"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="523" y="76" type="line"/>
+			<point x="561" y="109" type="line"/>
+			<point x="171" y="562" type="line"/>
+			<point x="485" y="561" type="line"/>
+			<point x="443" y="610" type="line"/>
+			<point x="97" y="610" type="line"/>
+			<point x="48" y="264" type="line"/>
+			<point x="89" y="216" type="line"/>
+			<point x="133" y="530" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

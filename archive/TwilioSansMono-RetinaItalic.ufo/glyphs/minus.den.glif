@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="142" y="217" type="line"/>
+			<point x="134" y="161" type="line"/>
+			<point x="437" y="161" type="line"/>
+			<point x="445" y="217" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>plus.den</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>plus.den</string>
+		</dict>
+	</lib>
+</glyph>

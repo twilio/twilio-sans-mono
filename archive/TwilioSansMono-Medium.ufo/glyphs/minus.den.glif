@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="146" y="221" type="line"/>
+			<point x="146" y="158" type="line"/>
+			<point x="454" y="158" type="line"/>
+			<point x="454" y="221" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>plus.den</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>plus.den</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="149" y="293" type="line"/>
+			<point x="139" y="223" type="line"/>
+			<point x="450" y="223" type="line"/>
+			<point x="460" y="293" type="line"/>
+		</contour>
+		<contour>
+			<point x="130" y="156" type="line"/>
+			<point x="120" y="86" type="line"/>
+			<point x="431" y="86" type="line"/>
+			<point x="441" y="156" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>plus.den</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>plus.den</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uogonek" format="2">
+	<unicode hex="0172"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="287" y="-203" type="curve" smooth="yes"/>
+			<point x="318" y="-203"/>
+			<point x="345" y="-198"/>
+			<point x="360" y="-194" type="curve"/>
+			<point x="377" y="-79" type="line"/>
+			<point x="377" y="-79"/>
+			<point x="366" y="-80"/>
+			<point x="356" y="-80" type="curve" smooth="yes"/>
+			<point x="328" y="-80"/>
+			<point x="313" y="-71"/>
+			<point x="313" y="-52" type="curve" smooth="yes"/>
+			<point x="313" y="-30"/>
+			<point x="333" y="-13"/>
+			<point x="380" y="0" type="curve"/>
+			<point x="380" y="0" type="line"/>
+			<point x="477" y="29"/>
+			<point x="536" y="102"/>
+			<point x="554" y="229" type="curve" smooth="yes"/>
+			<point x="619" y="684" type="line"/>
+			<point x="421" y="684" type="line"/>
+			<point x="357" y="229" type="line" smooth="yes"/>
+			<point x="350" y="178"/>
+			<point x="325" y="149"/>
+			<point x="289" y="149" type="curve" smooth="yes"/>
+			<point x="249" y="149"/>
+			<point x="227" y="176"/>
+			<point x="234" y="228" type="curve" smooth="yes"/>
+			<point x="298" y="684" type="line"/>
+			<point x="100" y="684" type="line"/>
+			<point x="37" y="240" type="line" smooth="yes"/>
+			<point x="14" y="77"/>
+			<point x="92" y="-2"/>
+			<point x="235" y="-13" type="curve"/>
+			<point x="183" y="-37"/>
+			<point x="154" y="-69"/>
+			<point x="154" y="-118" type="curve" smooth="yes"/>
+			<point x="154" y="-172"/>
+			<point x="198" y="-203"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 12:04:00 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>U</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>U</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period_question.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-286" y="-12" type="curve" smooth="yes"/>
+			<point x="-239" y="-12"/>
+			<point x="-213" y="6"/>
+			<point x="-213" y="55" type="curve" smooth="yes"/>
+			<point x="-213" y="103"/>
+			<point x="-239" y="120"/>
+			<point x="-286" y="120" type="curve" smooth="yes"/>
+			<point x="-333" y="120"/>
+			<point x="-359" y="103"/>
+			<point x="-359" y="55" type="curve" smooth="yes"/>
+			<point x="-359" y="6"/>
+			<point x="-333" y="-12"/>
+		</contour>
+		<contour>
+			<point x="116" y="198" type="curve"/>
+			<point x="190" y="198" type="line"/>
+			<point x="191" y="242" type="line" smooth="yes"/>
+			<point x="194" y="371"/>
+			<point x="383" y="387"/>
+			<point x="383" y="545" type="curve" smooth="yes"/>
+			<point x="383" y="636"/>
+			<point x="318" y="698"/>
+			<point x="184" y="698" type="curve" smooth="yes"/>
+			<point x="83" y="698"/>
+			<point x="20" y="663"/>
+			<point x="-12" y="642" type="curve"/>
+			<point x="-12" y="564" type="line"/>
+			<point x="30" y="597"/>
+			<point x="94" y="625"/>
+			<point x="171" y="625" type="curve" smooth="yes"/>
+			<point x="259" y="625"/>
+			<point x="298" y="588"/>
+			<point x="298" y="534" type="curve" smooth="yes"/>
+			<point x="298" y="414"/>
+			<point x="112" y="404"/>
+			<point x="112" y="237" type="curve" smooth="yes"/>
+			<point x="112" y="223"/>
+			<point x="113" y="212"/>
+		</contour>
+		<contour>
+			<point x="154" y="-12" type="curve" smooth="yes"/>
+			<point x="198" y="-12"/>
+			<point x="221" y="5"/>
+			<point x="221" y="48" type="curve" smooth="yes"/>
+			<point x="221" y="91"/>
+			<point x="199" y="108"/>
+			<point x="154" y="108" type="curve" smooth="yes"/>
+			<point x="110" y="108"/>
+			<point x="87" y="91"/>
+			<point x="87" y="48" type="curve" smooth="yes"/>
+			<point x="87" y="5"/>
+			<point x="110" y="-12"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

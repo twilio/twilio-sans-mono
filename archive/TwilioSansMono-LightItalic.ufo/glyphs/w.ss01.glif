@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w.ss01" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="93" y="0" type="line"/>
+			<point x="170" y="0" type="line"/>
+			<point x="327" y="461" type="line"/>
+			<point x="332" y="461" type="line"/>
+			<point x="355" y="0" type="line"/>
+			<point x="432" y="0" type="line"/>
+			<point x="602" y="523" type="line"/>
+			<point x="551" y="523" type="line"/>
+			<point x="402" y="55" type="line"/>
+			<point x="397" y="55" type="line"/>
+			<point x="372" y="523" type="line"/>
+			<point x="302" y="523" type="line"/>
+			<point x="144" y="55" type="line"/>
+			<point x="138" y="55" type="line"/>
+			<point x="123" y="523" type="line"/>
+			<point x="72" y="523" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="top" x="337" y="523"/>
+	<guideline x="389" y="550" angle="82"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

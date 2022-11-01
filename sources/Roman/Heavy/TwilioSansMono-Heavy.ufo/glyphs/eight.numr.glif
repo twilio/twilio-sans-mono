@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.numr" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="299" y="366" type="curve" smooth="yes"/>
+			<point x="392" y="366"/>
+			<point x="449" y="398"/>
+			<point x="449" y="464" type="curve" smooth="yes"/>
+			<point x="449" y="511"/>
+			<point x="418" y="537"/>
+			<point x="376" y="547" type="curve"/>
+			<point x="416" y="557"/>
+			<point x="443" y="589"/>
+			<point x="443" y="629" type="curve" smooth="yes"/>
+			<point x="443" y="694"/>
+			<point x="389" y="724"/>
+			<point x="302" y="724" type="curve" smooth="yes"/>
+			<point x="215" y="724"/>
+			<point x="157" y="694"/>
+			<point x="157" y="629" type="curve" smooth="yes"/>
+			<point x="157" y="588"/>
+			<point x="186" y="556"/>
+			<point x="229" y="548" type="curve"/>
+			<point x="183" y="538"/>
+			<point x="151" y="512"/>
+			<point x="151" y="464" type="curve" smooth="yes"/>
+			<point x="151" y="398"/>
+			<point x="206" y="366"/>
+		</contour>
+		<contour>
+			<point x="300" y="576" type="curve" smooth="yes"/>
+			<point x="278" y="576"/>
+			<point x="264" y="587"/>
+			<point x="264" y="613" type="curve" smooth="yes"/>
+			<point x="264" y="637"/>
+			<point x="278" y="649"/>
+			<point x="300" y="649" type="curve" smooth="yes"/>
+			<point x="322" y="649"/>
+			<point x="336" y="638"/>
+			<point x="336" y="613" type="curve" smooth="yes"/>
+			<point x="336" y="588"/>
+			<point x="322" y="576"/>
+		</contour>
+		<contour>
+			<point x="300" y="444" type="curve" smooth="yes"/>
+			<point x="277" y="444"/>
+			<point x="263" y="455"/>
+			<point x="263" y="482" type="curve" smooth="yes"/>
+			<point x="263" y="507"/>
+			<point x="277" y="519"/>
+			<point x="300" y="519" type="curve" smooth="yes"/>
+			<point x="323" y="519"/>
+			<point x="337" y="508"/>
+			<point x="337" y="482" type="curve" smooth="yes"/>
+			<point x="337" y="456"/>
+			<point x="323" y="444"/>
+		</contour>
+	</outline>
+	<guideline x="449" y="480" angle="0" identifier="CPGlvt2YtI"/>
+	<guideline x="443" y="776" angle="0" identifier="oHpFBSrSch"/>
+	<guideline x="299" y="731" angle="90" identifier="Z5dpt7pnsp"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 15:18:32 +0000</string>
+		</dict>
+	</lib>
+</glyph>

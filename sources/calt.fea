@@ -1,0 +1,926 @@
+feature calt {
+
+    lookup Twilio {
+        ignore sub parenleft parenleft' colon' colon' parenright';
+        ignore sub parenleft' colon' colon' parenright' parenright;
+        sub FILLER FILLER FILLER parenright' by Twilio;
+        sub FILLER FILLER colon' parenright by FILLER;
+        sub FILLER colon' colon parenright by FILLER;
+        sub parenleft' colon colon parenright by FILLER;
+    } Twilio;
+
+    lookup Twilio_Fix {
+        sub FILLER' FILLER' FILLER Twilio by FILLER;
+    } Twilio_Fix;
+
+    lookup Twilio_Fix_2 {
+        sub FILLER' FILLER' Twilio by FILLER;
+    } Twilio_Fix_2;
+        
+    lookup bar_bar_bar_greater {
+        ignore sub bar bar' bar' bar' greater';
+        ignore sub bar' bar' bar' greater' greater;
+        sub FILLER FILLER FILLER greater' by bar_bar_bar_greater.cLig;
+        sub FILLER FILLER bar' greater by FILLER;
+        sub FILLER bar' bar greater by FILLER;
+        sub bar' bar bar greater by FILLER;
+    } bar_bar_bar_greater;
+        
+    lookup less_bar_bar_bar {
+        ignore sub less less' bar' bar' bar';
+        ignore sub less' bar' bar' bar' bar;
+        sub FILLER FILLER FILLER bar' by less_bar_bar_bar.cLig;
+        sub FILLER FILLER bar' bar by FILLER;
+        sub FILLER bar' bar bar by FILLER;
+        sub less' bar bar bar by FILLER;
+    } less_bar_bar_bar;
+        
+    lookup less_exclam_hyphen_hyphen {
+        ignore sub less less' exclam' hyphen' hyphen';
+        ignore sub less' exclam' hyphen' hyphen' hyphen;
+        sub FILLER FILLER FILLER hyphen' by less_exclam_hyphen_hyphen.cLig;
+        sub FILLER FILLER hyphen' hyphen by FILLER;
+        sub FILLER exclam' hyphen hyphen by FILLER;
+        sub less' exclam hyphen hyphen by FILLER;
+    } less_exclam_hyphen_hyphen;
+
+    lookup numbersign_bracketright_bracketright {
+        ignore sub numbersign numbersign' bracketright' bracketright';
+        ignore sub numbersign' bracketright' bracketright' bracketright;
+        sub FILLER FILLER bracketright' by numbersign_bracketright_bracketright.cLig;
+        sub FILLER bracketright' bracketright by FILLER;
+        sub numbersign' bracketright bracketright by FILLER;
+    } numbersign_bracketright_bracketright;
+        
+    lookup braceleft_braceleft_numbersign {
+        ignore sub braceleft braceleft' braceleft' numbersign';
+        ignore sub braceleft' braceleft' numbersign' numbersign;
+        sub FILLER FILLER numbersign' by braceleft_braceleft_numbersign.cLig;
+        sub FILLER braceleft' numbersign by FILLER;
+        sub braceleft' braceleft numbersign by FILLER;
+    } braceleft_braceleft_numbersign;
+        
+    lookup numbersign_braceright_braceright {
+        ignore sub numbersign numbersign' braceright' braceright';
+        ignore sub numbersign' braceright' braceright' braceright;
+        sub FILLER FILLER braceright' by numbersign_braceright_braceright.cLig;
+        sub FILLER braceright' braceright by FILLER;
+        sub numbersign' braceright braceright by FILLER;
+    } numbersign_braceright_braceright;
+        
+    lookup bracketleft_bracketleft_numbersign {
+        ignore sub bracketleft bracketleft' bracketleft' numbersign';
+        ignore sub bracketleft' bracketleft' numbersign' numbersign;
+        sub FILLER FILLER numbersign' by bracketleft_bracketleft_numbersign.cLig;
+        sub FILLER bracketleft' numbersign by FILLER;
+        sub bracketleft' bracketleft numbersign by FILLER;
+    } bracketleft_bracketleft_numbersign;
+        
+    lookup less_bar_greater {
+        ignore sub less less' bar' greater';
+        ignore sub less' bar' greater' greater;
+        sub FILLER FILLER greater' by less_bar_greater.cLig;
+        sub FILLER bar' greater by FILLER;
+        sub less' bar greater by FILLER;
+    } less_bar_greater;
+        
+    lookup bar_bar_greater {
+        ignore sub bar bar' bar' greater';
+        ignore sub bar' bar' greater' greater;
+        sub FILLER FILLER greater' by bar_bar_greater.cLig;
+        sub FILLER bar' greater by FILLER;
+        sub bar' bar greater by FILLER;
+    } bar_bar_greater;
+        
+    lookup less_bar_bar {
+        ignore sub less less' bar' bar';
+        ignore sub less' bar' bar' bar;
+        sub FILLER FILLER bar' by less_bar_bar.cLig;
+        sub FILLER bar' bar by FILLER;
+        sub less' bar bar by FILLER;
+    } less_bar_bar;
+        
+    lookup bar_bar_bar {
+        ignore sub bar bar' bar' bar';
+        ignore sub bar' bar' bar' bar;
+        sub FILLER FILLER bar' by bar_bar_bar.cLig;
+        sub FILLER bar' bar by FILLER;
+        sub bar' bar bar by FILLER;
+    } bar_bar_bar;
+        
+    lookup greater_greater_greater {
+        ignore sub greater greater' greater' greater';
+        ignore sub greater' greater' greater' greater;
+        ignore sub equal greater' greater' greater';
+        ignore sub greater' greater' greater' equal;
+        sub FILLER FILLER greater' by greater_greater_greater.cLig;
+        sub FILLER greater' greater by FILLER;
+        sub greater' greater greater by FILLER;
+    } greater_greater_greater;
+        
+    lookup less_less_less {
+        ignore sub less less' less' less';
+        ignore sub less' less' less' less;
+        ignore sub less' less' less' equal;
+        ignore sub equal less' less' less';
+        sub FILLER FILLER less' by less_less_less.cLig;
+        sub FILLER less' less by FILLER;
+        sub less' less less by FILLER;
+    } less_less_less;
+        
+    lookup asciitilde_asciitilde_greater {
+        ignore sub asciitilde asciitilde' asciitilde' greater';
+        ignore sub asciitilde' asciitilde' greater' greater;
+        sub FILLER FILLER greater' by asciitilde_asciitilde_greater.cLig;
+        sub FILLER asciitilde' greater by FILLER;
+        sub asciitilde' asciitilde greater by FILLER;
+    } asciitilde_asciitilde_greater;
+        
+    lookup asterisk_asterisk_asterisk {
+        ignore sub asterisk asterisk' asterisk' asterisk';
+        ignore sub asterisk' asterisk' asterisk' asterisk;
+        sub FILLER FILLER asterisk' by asterisk_asterisk_asterisk.cLig;
+        sub FILLER asterisk' asterisk by FILLER;
+        sub asterisk' asterisk asterisk by FILLER;
+    } asterisk_asterisk_asterisk;
+        
+    lookup colon_colon_colon {
+        ignore sub colon colon' colon' colon';
+        ignore sub colon' colon' colon' colon;
+        sub FILLER FILLER colon' by colon_colon_colon.cLig;
+        sub FILLER colon' colon by FILLER;
+        sub colon' colon colon by FILLER;
+    } colon_colon_colon;
+        
+    lookup colon_colon_equal {
+        ignore sub colon colon' colon' equal';
+        ignore sub colon' colon' equal' equal;
+        sub FILLER FILLER equal' by colon_colon_equal.cLig;
+        sub FILLER colon' equal by FILLER;
+        sub colon' colon equal by FILLER;
+    } colon_colon_equal;
+        
+    lookup equal_equal_equal {
+        ignore sub equal equal' equal' equal';
+        ignore sub equal' equal' equal' equal;
+        ignore sub [exclam colon greater less bar slash] equal' equal' equal';
+        ignore sub equal' equal' equal' [exclam colon greater less bar slash];
+        sub FILLER FILLER equal' by equal_equal_equal.cLig;
+        sub FILLER equal' equal by FILLER;
+        sub equal' equal equal by FILLER;
+    } equal_equal_equal;
+        
+    lookup exclam_equal_equal {
+        ignore sub exclam exclam' equal' equal';
+        ignore sub exclam' equal' equal' equal;
+        ignore sub equal exclam' equal' equal';
+        sub FILLER FILLER equal' by exclam_equal_equal.cLig;
+        sub FILLER equal' equal by FILLER;
+        sub exclam' equal equal by FILLER;
+    } exclam_equal_equal;
+        
+    lookup exclam_exclam_period {
+        ignore sub exclam exclam' exclam' period';
+        ignore sub exclam' exclam' period' period;
+        sub FILLER FILLER period' by exclam_exclam_period.cLig;
+        sub FILLER exclam' period by FILLER;
+        sub exclam' exclam period by FILLER;
+    } exclam_exclam_period;
+        
+    lookup less_asciitilde_asciitilde {
+        ignore sub less less' asciitilde' asciitilde';
+        ignore sub less' asciitilde' asciitilde' asciitilde;
+        sub FILLER FILLER asciitilde' by less_asciitilde_asciitilde.cLig;
+        sub FILLER asciitilde' asciitilde by FILLER;
+        sub less' asciitilde asciitilde by FILLER;
+    } less_asciitilde_asciitilde;
+        
+    lookup less_asciitilde_greater {
+        ignore sub less less' asciitilde' greater';
+        ignore sub less' asciitilde' greater' greater;
+        sub FILLER FILLER greater' by less_asciitilde_greater.cLig;
+        sub FILLER asciitilde' greater by FILLER;
+        sub less' asciitilde greater by FILLER;
+    } less_asciitilde_greater;
+        
+    lookup less_asterisk_greater {
+        ignore sub less less' asterisk' greater';
+        ignore sub less' asterisk' greater' greater;
+        sub FILLER FILLER greater' by less_asterisk_greater.cLig;
+        sub FILLER asterisk' greater by FILLER;
+        sub less' asterisk greater by FILLER;
+    } less_asterisk_greater;
+        
+    lookup less_dollar_greater {
+        ignore sub less less' dollar' greater';
+        ignore sub less' dollar' greater' greater;
+        sub FILLER FILLER greater' by less_dollar_greater.cLig;
+        sub FILLER dollar' greater by FILLER;
+        sub less' dollar greater by FILLER;
+    } less_dollar_greater;
+        
+    lookup less_plus_greater {
+        ignore sub less less' plus' greater';
+        ignore sub less' plus' greater' greater;
+        sub FILLER FILLER greater' by less_plus_greater.cLig;
+        sub FILLER plus' greater by FILLER;
+        sub less' plus greater by FILLER;
+    } less_plus_greater;
+        
+    lookup less_slash_greater {
+        ignore sub less less' slash' greater';
+        ignore sub less' slash' greater' greater;
+        sub FILLER FILLER greater' by less_slash_greater.cLig;
+        sub FILLER slash' greater by FILLER;
+        sub less' slash greater by FILLER;
+    } less_slash_greater;
+        
+    lookup numbersign_underscore_parenleft {
+        ignore sub numbersign numbersign' underscore' parenleft';
+        ignore sub numbersign' underscore' parenleft' parenleft;
+        sub FILLER FILLER parenleft' by numbersign_underscore_parenleft.cLig;
+        sub FILLER underscore' parenleft by FILLER;
+        sub numbersign' underscore parenleft by FILLER;
+    } numbersign_underscore_parenleft;
+        
+    lookup period_period_equal {
+        ignore sub period period' period' equal';
+        ignore sub period' period' equal' equal;
+        sub FILLER FILLER equal' by period_period_equal.cLig;
+        sub FILLER period' equal by FILLER;
+        sub period' period equal by FILLER;
+    } period_period_equal;
+        
+    lookup period_period_less {
+        ignore sub period period' period' less';
+        ignore sub period' period' less' less;
+        sub FILLER FILLER less' by period_period_less.cLig;
+        sub FILLER period' less by FILLER;
+        sub period' period less by FILLER;
+    } period_period_less;
+        
+    lookup period_period_period {
+        ignore sub period period' period' period';
+        ignore sub period' period' period' period;
+        sub FILLER FILLER period' by period_period_period.cLig;
+        sub FILLER period' period by FILLER;
+        sub period' period period by FILLER;
+    } period_period_period;
+        
+    lookup plus_plus_plus {
+        ignore sub plus plus' plus' plus';
+        ignore sub plus' plus' plus' plus;
+        sub FILLER FILLER plus' by plus_plus_plus.cLig;
+        sub FILLER plus' plus by FILLER;
+        sub plus' plus plus by FILLER;
+    } plus_plus_plus;
+        
+    lookup slash_slash_slash {
+        ignore sub slash slash' slash' slash';
+        ignore sub slash' slash' slash' slash;
+        sub FILLER FILLER slash' by slash_slash_slash.cLig;
+        sub FILLER slash' slash by FILLER;
+        sub slash' slash slash by FILLER;
+    } slash_slash_slash;
+        
+    lookup bar_greater {
+        ignore sub bar bar' greater';
+        ignore sub bar' greater' greater;
+        sub FILLER greater' by bar_greater.cLig;
+        sub bar' greater by FILLER;
+    } bar_greater;
+        
+    lookup less_bar {
+        ignore sub less less' bar';
+        ignore sub less' bar' bar;
+        sub FILLER bar' by less_bar.cLig;
+        sub less' bar by FILLER;
+    } less_bar;
+        
+    lookup bar_bar {
+        ignore sub bar bar' bar';
+        ignore sub bar' bar' bar;
+        sub FILLER bar' by bar_bar.cLig;
+        sub bar' bar by FILLER;
+    } bar_bar;
+        
+    lookup greater_greater {
+        ignore sub greater greater' greater';
+        ignore sub greater' greater' greater;
+        ignore sub equal greater' greater';
+        ignore sub [asterisk plus less bar equal] greater' greater';
+        ignore sub greater' greater' equal;
+        sub FILLER greater' by greater_greater.cLig;
+        sub greater' greater by FILLER;
+    } greater_greater;
+        
+    lookup less_less {
+        ignore sub less less' less';
+        ignore sub less' less' less;
+        ignore sub equal less' less';
+        ignore sub less' less' [equal asterisk plus greater bar];
+        sub FILLER less' by less_less.cLig;
+        sub less' less by FILLER;
+    } less_less;
+        
+    lookup ampersand_ampersand {
+        ignore sub ampersand ampersand' ampersand';
+        ignore sub ampersand' ampersand' ampersand;
+        sub FILLER ampersand' by ampersand_ampersand.cLig;
+        sub ampersand' ampersand by FILLER;
+    } ampersand_ampersand;
+        
+    lookup asciicircum_equal {
+        ignore sub asciicircum asciicircum' equal';
+        ignore sub asciicircum' equal' equal;
+        sub FILLER equal' by asciicircum_equal.cLig;
+        sub asciicircum' equal by FILLER;
+    } asciicircum_equal;
+        
+    lookup asciitilde_asciitilde {
+        ignore sub asciitilde asciitilde' asciitilde';
+        ignore sub asciitilde' asciitilde' asciitilde;
+        sub FILLER asciitilde' by asciitilde_asciitilde.cLig;
+        sub asciitilde' asciitilde by FILLER;
+    } asciitilde_asciitilde;
+        
+    lookup asciitilde_at {
+        ignore sub asciitilde asciitilde' at';
+        ignore sub asciitilde' at' at;
+        sub FILLER at' by asciitilde_at.cLig;
+        sub asciitilde' at by FILLER;
+    } asciitilde_at;
+        
+    lookup asciitilde_greater {
+        ignore sub asciitilde asciitilde' greater';
+        ignore sub asciitilde' greater' greater;
+        sub FILLER greater' by asciitilde_greater.cLig;
+        sub asciitilde' greater by FILLER;
+    } asciitilde_greater;
+        
+    lookup asciitilde_hyphen {
+        ignore sub asciitilde asciitilde' hyphen';
+        ignore sub asciitilde' hyphen' hyphen;
+        sub FILLER hyphen' by asciitilde_hyphen.cLig;
+        sub asciitilde' hyphen by FILLER;
+    } asciitilde_hyphen;
+        
+    lookup asterisk_asterisk {
+        ignore sub asterisk asterisk' asterisk';
+        ignore sub asterisk' asterisk' asterisk;
+        sub FILLER asterisk' by asterisk_asterisk.cLig;
+        sub asterisk' asterisk by FILLER;
+    } asterisk_asterisk;
+        
+    lookup asterisk_greater {
+        ignore sub asterisk asterisk' greater';
+        ignore sub asterisk' greater' greater;
+        sub FILLER greater' by asterisk_greater.cLig;
+        sub asterisk' greater by FILLER;
+    } asterisk_greater;
+        
+    lookup asterisk_slash {
+        ignore sub asterisk asterisk' slash';
+        ignore sub asterisk' slash' slash;
+        sub FILLER slash' by asterisk_slash.cLig;
+        sub asterisk' slash by FILLER;
+    } asterisk_slash;
+        
+    lookup bar_braceright {
+        ignore sub bar bar' braceright';
+        ignore sub bar' braceright' braceright;
+        sub FILLER braceright' by bar_braceright.cLig;
+        sub bar' braceright by FILLER;
+    } bar_braceright;
+        
+    lookup bar_bracketright {
+        ignore sub bar bar' bracketright';
+        ignore sub bar' bracketright' bracketright;
+        sub FILLER bracketright' by bar_bracketright.cLig;
+        sub bar' bracketright by FILLER;
+    } bar_bracketright;
+        
+    lookup braceleft_bar {
+        ignore sub braceleft braceleft' bar';
+        ignore sub braceleft' bar' bar;
+        sub FILLER bar' by braceleft_bar.cLig;
+        sub braceleft' bar by FILLER;
+    } braceleft_bar;
+        
+    lookup bracketleft_bar {
+        ignore sub bracketleft bracketleft' bar';
+        ignore sub bracketleft' bar' bar;
+        sub FILLER bar' by bracketleft_bar.cLig;
+        sub bracketleft' bar by FILLER;
+    } bracketleft_bar;
+        
+    lookup bracketright_numbersign {
+        ignore sub bracketright bracketright' numbersign';
+        ignore sub bracketright' numbersign' numbersign;
+        sub FILLER numbersign' by bracketright_numbersign.cLig;
+        sub bracketright' numbersign by FILLER;
+    } bracketright_numbersign;
+        
+    lookup colon_colon {
+        ignore sub colon colon' colon';
+        ignore sub colon' colon' colon;
+        ignore sub colon' colon' [less greater];
+        sub FILLER colon' by colon_colon.cLig;
+        sub colon' colon by FILLER;
+    } colon_colon;
+        
+    lookup colon_equal {
+        ignore sub colon colon' equal';
+        ignore sub colon' equal' equal;
+        ignore sub equal colon' equal';
+        sub FILLER equal' by colon_equal.cLig;
+        sub colon' equal by FILLER;
+    } colon_equal;
+        
+    lookup dollar_greater {
+        ignore sub dollar dollar' greater';
+        ignore sub dollar' greater' greater;
+        sub FILLER greater' by dollar_greater.cLig;
+        sub dollar' greater by FILLER;
+    } dollar_greater;
+        
+    lookup equal_equal {
+        ignore sub equal equal' equal';
+        ignore sub equal' equal' equal;
+        ignore sub [exclam colon greater less slash bar] equal' equal';
+        ignore sub equal' equal' [exclam colon greater less slash bar];
+        sub FILLER equal' by equal_equal.cLig;
+        sub equal' equal by FILLER;
+    } equal_equal;
+        
+    lookup exclam_equal {
+        ignore sub exclam exclam' equal';
+        ignore sub exclam' equal' equal;
+        ignore sub equal exclam' equal;
+        sub FILLER equal' by exclam_equal.cLig;
+        sub exclam' equal by FILLER;
+    } exclam_equal;
+        
+    lookup exclam_exclam {
+        ignore sub exclam exclam' exclam';
+        ignore sub exclam' exclam' exclam;
+        sub FILLER exclam' by exclam_exclam.cLig;
+        sub exclam' exclam by FILLER;
+    } exclam_exclam;
+        
+    lookup greater_equal {
+        ignore sub greater greater' equal';
+        ignore sub greater' equal' equal;
+        ignore sub greater' equal' [greater less bar];
+        ignore sub equal greater' equal';
+        sub FILLER equal' by greater_equal.cLig;
+        sub greater' equal by FILLER;
+    } greater_equal;
+        
+    lookup hyphen_asciitilde {
+        ignore sub hyphen hyphen' asciitilde';
+        ignore sub hyphen' asciitilde' asciitilde;
+        sub FILLER asciitilde' by hyphen_asciitilde.cLig;
+        sub hyphen' asciitilde by FILLER;
+    } hyphen_asciitilde;
+        
+    lookup hyphen_hyphen {
+      ignore sub hyphen hyphen' hyphen;
+      ignore sub hyphen' hyphen hyphen;
+      ignore sub [bar less greater] hyphen' hyphen;
+      ignore sub hyphen' hyphen [bar less greater];
+      sub FILLER hyphen' by hyphen_hyphen.cLig;
+      sub hyphen' hyphen by FILLER;
+    } hyphen_hyphen;
+
+        
+    lookup less_asciitilde {
+        ignore sub less less' asciitilde';
+        ignore sub less' asciitilde' asciitilde;
+        sub FILLER asciitilde' by less_asciitilde.cLig;
+        sub less' asciitilde by FILLER;
+    } less_asciitilde;
+        
+    lookup less_asterisk {
+        ignore sub less less' asterisk';
+        ignore sub less' asterisk' asterisk;
+        sub FILLER asterisk' by less_asterisk.cLig;
+        sub less' asterisk by FILLER;
+    } less_asterisk;
+        
+    lookup less_dollar {
+        ignore sub less less' dollar';
+        ignore sub less' dollar' dollar;
+        sub FILLER dollar' by less_dollar.cLig;
+        sub less' dollar by FILLER;
+    } less_dollar;
+        
+    lookup less_equal {
+        ignore sub less less' equal';
+        ignore sub less' equal' equal;
+        ignore sub less' equal' [greater less bar];
+        ignore sub equal less' equal';
+        sub FILLER equal' by less_equal.cLig;
+        sub less' equal by FILLER;
+    } less_equal;
+        
+    lookup less_greater {
+        ignore sub less less' greater';
+        ignore sub less' greater' greater;
+        sub FILLER greater' by less_greater.cLig;
+        sub less' greater by FILLER;
+    } less_greater;
+        
+    lookup less_plus {
+        ignore sub less less' plus';
+        ignore sub less' plus' plus;
+        sub FILLER plus' by less_plus.cLig;
+        sub less' plus by FILLER;
+    } less_plus;
+        
+    lookup less_slash {
+        ignore sub less less' slash';
+        ignore sub less' slash' slash;
+        sub FILLER slash' by less_slash.cLig;
+        sub less' slash by FILLER;
+    } less_slash;
+        
+    lookup numbersign_braceleft {
+        ignore sub numbersign numbersign' braceleft';
+        ignore sub numbersign' braceleft' braceleft;
+        sub FILLER braceleft' by numbersign_braceleft.cLig;
+        sub numbersign' braceleft by FILLER;
+    } numbersign_braceleft;
+        
+    lookup numbersign_bracketleft {
+        ignore sub numbersign numbersign' bracketleft';
+        ignore sub numbersign' bracketleft' bracketleft;
+        sub FILLER bracketleft' by numbersign_bracketleft.cLig;
+        sub numbersign' bracketleft by FILLER;
+    } numbersign_bracketleft;
+        
+    lookup numbersign_colon {
+        ignore sub numbersign numbersign' colon';
+        ignore sub numbersign' colon' colon;
+        sub FILLER colon' by numbersign_colon.cLig;
+        sub numbersign' colon by FILLER;
+    } numbersign_colon;
+        
+    lookup numbersign_equal {
+        ignore sub numbersign numbersign' equal';
+        ignore sub numbersign' equal' equal;
+        sub FILLER equal' by numbersign_equal.cLig;
+        sub numbersign' equal by FILLER;
+    } numbersign_equal;
+        
+    lookup numbersign_exclam {
+        ignore sub numbersign numbersign' exclam';
+        ignore sub numbersign' exclam' exclam;
+        sub FILLER exclam' by numbersign_exclam.cLig;
+        sub numbersign' exclam by FILLER;
+    } numbersign_exclam;
+        
+    lookup numbersign_parenleft {
+        ignore sub numbersign numbersign' parenleft';
+        ignore sub numbersign' parenleft' parenleft;
+        sub FILLER parenleft' by numbersign_parenleft.cLig;
+        sub numbersign' parenleft by FILLER;
+    } numbersign_parenleft;
+        
+    lookup numbersign_question {
+        ignore sub numbersign numbersign' question';
+        ignore sub numbersign' question' question;
+        sub FILLER question' by numbersign_question.cLig;
+        sub numbersign' question by FILLER;
+    } numbersign_question;
+        
+    lookup numbersign_underscore {
+        ignore sub numbersign numbersign' underscore';
+        ignore sub numbersign' underscore' underscore;
+        sub FILLER underscore' by numbersign_underscore.cLig;
+        sub numbersign' underscore by FILLER;
+    } numbersign_underscore;
+        
+    lookup percent_percent {
+        ignore sub percent percent' percent';
+        ignore sub percent' percent' percent;
+        sub FILLER percent' by percent_percent.cLig;
+        sub percent' percent by FILLER;
+    } percent_percent;
+        
+    lookup period_equal {
+        ignore sub period period' equal';
+        ignore sub period' equal' equal;
+        sub FILLER equal' by period_equal.cLig;
+        sub period' equal by FILLER;
+    } period_equal;
+        
+    lookup period_period {
+        ignore sub period period' period';
+        ignore sub period' period' period;
+        sub FILLER period' by period_period.cLig;
+        sub period' period by FILLER;
+    } period_period;
+        
+    lookup period_question {
+        ignore sub period period' question';
+        ignore sub period' question' question;
+        sub FILLER question' by period_question.cLig;
+        sub period' question by FILLER;
+    } period_question;
+        
+    lookup plus_greater {
+        ignore sub plus plus' greater';
+        ignore sub plus' greater' greater;
+        sub FILLER greater' by plus_greater.cLig;
+        sub plus' greater by FILLER;
+    } plus_greater;
+        
+    lookup plus_plus {
+        ignore sub plus plus' plus';
+        ignore sub plus' plus' plus;
+        sub FILLER plus' by plus_plus.cLig;
+        sub plus' plus by FILLER;
+    } plus_plus;
+        
+    lookup question_equal {
+        ignore sub question question' equal';
+        ignore sub question' equal' equal;
+        sub FILLER equal' by question_equal.cLig;
+        sub question' equal by FILLER;
+    } question_equal;
+        
+    lookup question_period {
+        ignore sub question question' period';
+        ignore sub question' period' period;
+        sub FILLER period' by question_period.cLig;
+        sub question' period by FILLER;
+    } question_period;
+        
+    lookup question_question {
+        ignore sub question question' question';
+        ignore sub question' question' question;
+        sub FILLER question' by question_question.cLig;
+        sub question' question by FILLER;
+    } question_question;
+        
+    lookup semicolon_semicolon {
+        ignore sub semicolon semicolon' semicolon';
+        ignore sub semicolon' semicolon' semicolon;
+        sub FILLER semicolon' by semicolon_semicolon.cLig;
+        sub semicolon' semicolon by FILLER;
+    } semicolon_semicolon;
+        
+    lookup slash_asterisk {
+        ignore sub slash slash' asterisk';
+        ignore sub slash' asterisk' asterisk;
+        sub FILLER asterisk' by slash_asterisk.cLig;
+        sub slash' asterisk by FILLER;
+    } slash_asterisk;
+        
+    lookup slash_greater {
+        ignore sub slash slash' greater';
+        ignore sub slash' greater' greater;
+        sub FILLER greater' by slash_greater.cLig;
+        sub slash' greater by FILLER;
+    } slash_greater;
+        
+    lookup slash_slash {
+        ignore sub slash slash' slash';
+        ignore sub slash' slash' slash;
+        sub FILLER slash' by slash_slash.cLig;
+        sub slash' slash by FILLER;
+    } slash_slash;
+        
+    lookup slash_backslash {
+        ignore sub slash slash' backslash';
+        ignore sub slash' backslash' backslash;
+        sub FILLER backslash' by slash_backslash.cLig;
+        sub slash' backslash by FILLER;
+    } slash_backslash;
+        
+    lookup backslash_slash {
+        ignore sub backslash backslash' slash';
+        ignore sub backslash' slash' slash;
+        sub FILLER slash' by backslash_slash.cLig;
+        sub backslash' slash by FILLER;
+    } backslash_slash;
+
+    lookup w_w_w {
+        ignore sub w w' w' w';
+        ignore sub w' w' w' w;
+        sub FILLER FILLER w' by w_w_w;
+        sub FILLER w' w by FILLER;
+        sub w' w w by FILLER;
+    } w_w_w;
+
+        
+    lookup bracketleft_numbersign {
+        ignore sub bracketleft bracketleft' numbersign';
+        ignore sub bracketleft' numbersign' numbersign;
+        sub FILLER numbersign' by bracketleft_numbersign.cLig;
+        sub bracketleft' numbersign by FILLER;
+    } bracketleft_numbersign;
+        
+    lookup bracketright_bracketright {
+        ignore sub bracketright bracketright' bracketright';
+        ignore sub bracketright' bracketright' bracketright;
+        sub FILLER bracketright' by bracketright_bracketright.cLig;
+        sub bracketright' bracketright by FILLER;
+    } bracketright_bracketright;
+        
+    lookup bracketleft_bracketleft {
+        ignore sub bracketleft bracketleft' bracketleft';
+        ignore sub bracketleft' bracketleft' bracketleft;
+        sub FILLER bracketleft' by bracketleft_bracketleft.cLig;
+        sub bracketleft' bracketleft by FILLER;
+    } bracketleft_bracketleft;
+        
+    lookup braceleft_braceleft {
+        ignore sub braceleft braceleft' braceleft';
+        ignore sub braceleft' braceleft' braceleft;
+        sub FILLER braceleft' by braceleft_braceleft.cLig;
+        sub braceleft' braceleft by FILLER;
+    } braceleft_braceleft;
+        
+    lookup numbersign_bracketright {
+        ignore sub numbersign numbersign' bracketright';
+        ignore sub numbersign' bracketright' bracketright;
+        sub FILLER bracketright' by numbersign_bracketright.cLig;
+        sub numbersign' bracketright by FILLER;
+    } numbersign_bracketright;
+        
+    lookup numbersign_braceright {
+        ignore sub numbersign numbersign' braceright';
+        ignore sub numbersign' braceright' braceright;
+        sub FILLER braceright' by numbersign_braceright.cLig;
+        sub numbersign' braceright by FILLER;
+    } numbersign_braceright;
+        
+    lookup question_greater {
+        ignore sub question question' greater';
+        ignore sub question' greater' greater;
+        sub FILLER greater' by question_greater.cLig;
+        sub question' greater by FILLER;
+    } question_greater;
+        
+    lookup braceleft_numbersign {
+        ignore sub braceleft braceleft' numbersign';
+        ignore sub braceleft' numbersign' numbersign;
+        sub FILLER numbersign' by braceleft_numbersign.cLig;
+        sub braceleft' numbersign by FILLER;
+    } braceleft_numbersign;
+        
+    lookup braceright_braceright {
+        ignore sub braceright braceright' braceright';
+        ignore sub braceright' braceright' braceright;
+        sub FILLER braceright' by braceright_braceright.cLig;
+        sub braceright' braceright by FILLER;
+    } braceright_braceright;
+        
+    lookup less_question {
+        ignore sub less less' question';
+        ignore sub less' question' question;
+        sub FILLER question' by less_question.cLig;
+        sub less' question by FILLER;
+    } less_question;
+        
+
+    lookup equal_arrows {
+
+        @class_frontEqual = [equal.init equal.med];
+        @class_allEquals =  [less_equal.init less_less_equal.init less_equal.med less_less_equal.med greater_equal.init greater_greater_equal.init greater_equal.med greater_greater_equal.med bar_equal.init bar_bar_equal.init bar_equal.med bar_bar_equal.med slash_equal.init slash_slash_equal.init slash_equal.med slash_slash_equal.med colon_equal.med exclam_equal.med equal.init equal.med];
+
+        ignore sub bar bar' bar equal;
+        ignore sub bar bar' equal;
+        ignore sub @class_frontEqual bar' bar bar;
+
+        sub @class_allEquals equal' [equal less greater bar slash colon exclam] by equal.med;
+        sub @class_allEquals equal' by equal.fina;
+
+        sub @class_frontEqual FILLER less' equal by less_less_equal.med;
+        sub @class_frontEqual less' less equal by FILLER;
+        sub @class_frontEqual FILLER greater' equal by greater_greater_equal.med;
+        sub @class_frontEqual greater' greater equal by FILLER;
+        sub @class_frontEqual FILLER bar' equal by bar_bar_equal.med;
+        sub @class_frontEqual bar' bar equal by FILLER;
+        sub @class_frontEqual FILLER slash' equal by slash_slash_equal.med;
+        sub @class_frontEqual slash' slash equal by FILLER;
+
+        sub @class_frontEqual colon' equal by colon_equal.med;
+        sub @class_frontEqual exclam' equal by exclam_equal.med;
+        sub @class_frontEqual bar' equal by bar_equal.med;
+        sub @class_frontEqual greater' equal by greater_equal.med;
+        sub @class_frontEqual less' equal by less_equal.med;
+        sub @class_frontEqual slash' equal by slash_equal.med;
+
+        sub @class_frontEqual FILLER less' by less_less_equal.fina;
+        sub @class_frontEqual less' less by FILLER;
+        sub @class_frontEqual FILLER greater' by greater_greater_equal.fina;
+        sub @class_frontEqual greater' greater by FILLER;
+        sub @class_frontEqual FILLER bar' by bar_bar_equal.fina;
+        sub @class_frontEqual bar' bar by FILLER;
+        sub @class_frontEqual FILLER slash' by slash_slash_equal.fina;
+        sub @class_frontEqual slash' slash by FILLER;
+
+        sub @class_frontEqual bar' by bar_equal.fina;
+        sub @class_frontEqual greater' by greater_equal.fina;
+        sub @class_frontEqual less' by less_equal.fina;
+        sub @class_frontEqual slash' by slash_equal.fina;
+
+        sub FILLER less' equal by less_less_equal.init;
+        sub less' less equal by FILLER;
+        sub FILLER greater' equal by greater_greater_equal.init;
+        sub greater' greater equal by FILLER;
+        sub FILLER bar' equal by bar_bar_equal.init;
+        sub bar' bar equal by FILLER;
+        sub FILLER slash' equal by slash_slash_equal.init;
+        sub slash' slash equal by FILLER;
+
+        sub greater' equal less [equal less] by greater_equal.init;
+        ignore sub greater' equal less;
+     
+        sub equal' less [equal less] by equal.init;
+
+        sub equal' slash [equal slash] by equal.init; 
+
+        sub less' equal by less_equal.init;
+        sub greater' equal by greater_equal.init;
+        sub bar' equal [equal less greater bar colon exclam slash] by bar_equal.init;
+        sub slash' equal by slash_equal.init;
+        sub equal' [equal less greater bar colon exclam] by equal.init;
+
+    } equal_arrows;
+
+
+
+    lookup hyphen_arrows {
+
+        @class_frontHyphen = [hyphen.init hyphen.med];
+        @class_allHyphens = [less_hyphen.init less_less_hyphen.init less_hyphen.med less_less_hyphen.med greater_hyphen.init greater_greater_hyphen.init greater_hyphen.med greater_greater_hyphen.med bar_hyphen.init bar_bar_hyphen.init bar_hyphen.med bar_bar_hyphen.med hyphen.init hyphen.med];
+
+        ignore sub bar bar' bar hyphen;
+        ignore sub bar bar' hyphen;
+        ignore sub @class_frontHyphen bar' bar bar;
+
+        sub @class_allHyphens hyphen' [hyphen less greater bar] by hyphen.med;
+        sub @class_allHyphens hyphen' by hyphen.fina;
+
+        sub @class_frontHyphen FILLER less' hyphen by less_less_hyphen.med;
+        sub @class_frontHyphen less' less hyphen by FILLER;
+        sub @class_frontHyphen FILLER greater' hyphen by greater_greater_hyphen.med;
+        sub @class_frontHyphen greater' greater hyphen by FILLER;
+        sub @class_frontHyphen FILLER bar' hyphen by bar_bar_hyphen.med;
+        sub @class_frontHyphen bar' bar hyphen by FILLER;
+
+        sub @class_frontHyphen less' hyphen by less_hyphen.med;
+        sub @class_frontHyphen greater' hyphen by greater_hyphen.med;
+        sub @class_frontHyphen bar' hyphen by bar_hyphen.med;
+
+        sub @class_frontHyphen FILLER less' by less_less_hyphen.fina;
+        sub @class_frontHyphen less' less by FILLER;
+        sub @class_frontHyphen FILLER greater' by greater_greater_hyphen.fina;
+        sub @class_frontHyphen greater' greater by FILLER;
+        sub @class_frontHyphen FILLER bar' by bar_bar_hyphen.fina;
+        sub @class_frontHyphen bar' bar by FILLER;
+
+        sub @class_frontHyphen less' by less_hyphen.fina;
+        sub @class_frontHyphen greater' by greater_hyphen.fina;
+        sub @class_frontHyphen bar' by bar_hyphen.fina;
+
+        sub FILLER less' hyphen by less_less_hyphen.init;
+        sub less' less hyphen by FILLER;
+        sub FILLER greater' hyphen by greater_greater_hyphen.init;
+        sub greater' greater hyphen by FILLER;
+        sub FILLER bar' hyphen by bar_bar_hyphen.init;
+        sub bar' bar hyphen by FILLER;
+
+        sub less' hyphen by less_hyphen.init;
+        sub greater' hyphen by greater_hyphen.init;
+        sub bar' hyphen by bar_hyphen.init;
+        sub hyphen' [hyphen less greater bar] by hyphen.init;
+    } hyphen_arrows;
+
+
+    lookup numbersigns {
+
+        sub [numbersign.init numbersign.med] numbersign' numbersign by numbersign.med;
+        sub [numbersign.init numbersign.med] numbersign' by numbersign.fina;
+        sub numbersign' numbersign by numbersign.init;
+        
+    } numbersigns;
+
+    lookup underscores {
+
+    	sub [underscore.init underscore.med] bar' underscore by bar_underscore.med;
+    	sub [underscore.init underscore.med bar_underscore.med] underscore' bar underscore by underscore.med;
+    	sub [underscore.init underscore.med bar_underscore.med] underscore' underscore by underscore.med;
+    	sub [underscore.init underscore.med bar_underscore.med] underscore' by underscore.fina;
+    	sub underscore' bar underscore by underscore.init; 
+    	sub underscore' underscore by underscore.init; 
+
+    } underscores;
+        
+
+    
+} calt;

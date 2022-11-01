@@ -1,0 +1,24 @@
+table head {
+		FontRevision 2.000;
+	} head;
+
+table BASE {
+		HorizAxis.BaseTagList		ideo	romn;
+		HorizAxis.BaseScriptList	DFLT	romn	-158 0,
+									latn	romn	-158 0;
+	} BASE;
+
+table name {
+		nameid 0 "\00A9 2021, Sharp Type Co. All rights reserved.";
+		nameid 0 1 "\A9 2021, Sharp Type Co. All rights reserved.";
+		nameid 7 "TWILIO and TWILIO SANS are trademarks of Twilio, Inc.";
+		nameid 7 1 "TWILIO and TWILIO SANS are trademarks of Twilio, Inc.";
+		nameid 8 "Sharp Type Corporation";
+		nameid 8 1 "Sharp Type Corporation";
+		nameid 9 "Lucas Sharp and Huw Williams";
+		nameid 9 1 "Lucas Sharp and Huw Williams";
+		nameid 11 "https://sharptype.co";
+		nameid 11 1 "https://sharptype.co";
+		nameid 12 "http://www.sharptype.co";
+		nameid 12 1 "http://www.sharptype.co";
+	} name;

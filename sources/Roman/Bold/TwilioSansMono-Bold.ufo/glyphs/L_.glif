@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="2">
+	<unicode hex="004C"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="84" y="0" type="line"/>
+			<point x="554" y="0" type="line"/>
+			<point x="554" y="136" type="line"/>
+			<point x="234" y="136" type="line"/>
+			<point x="234" y="684" type="line"/>
+			<point x="84" y="684" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="center" x="161" y="340"/>
+	<anchor name="caron" x="340" y="684"/>
+	<anchor name="top" x="159" y="684"/>
+	<anchor name="bottom" x="325" y="0"/>
+</glyph>

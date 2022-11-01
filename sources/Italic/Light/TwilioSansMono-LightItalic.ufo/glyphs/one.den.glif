@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="141" y="0" type="line"/>
+			<point x="421" y="0" type="line"/>
+			<point x="427" y="40" type="line"/>
+			<point x="313" y="40" type="line"/>
+			<point x="366" y="410" type="line"/>
+			<point x="318" y="410" type="line"/>
+			<point x="184" y="304" type="line"/>
+			<point x="176" y="251" type="line"/>
+			<point x="314" y="358" type="line"/>
+			<point x="269" y="40" type="line"/>
+			<point x="147" y="40" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

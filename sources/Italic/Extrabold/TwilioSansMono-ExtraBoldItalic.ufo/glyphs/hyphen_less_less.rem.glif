@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen_less_less.rem" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="508" y="629" type="line"/>
+			<point x="310" y="629" type="line"/>
+			<point x="18" y="315" type="line"/>
+			<point x="241" y="0" type="line"/>
+			<point x="422" y="0" type="line"/>
+			<point x="207" y="309" type="line"/>
+		</contour>
+		<contour>
+			<point x="121" y="629" type="line"/>
+			<point x="-78" y="629" type="line"/>
+			<point x="-300" y="390" type="line"/>
+			<point x="-1078" y="390" type="line"/>
+			<point x="-1099" y="240" type="line"/>
+			<point x="-317" y="240" type="line"/>
+			<point x="-146" y="0" type="line"/>
+			<point x="35" y="0" type="line"/>
+			<point x="-177" y="306" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

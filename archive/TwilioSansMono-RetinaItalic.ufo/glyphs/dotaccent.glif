@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="2">
+	<unicode hex="02D9"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="354" y="622" type="curve" smooth="yes"/>
+			<point x="402" y="622"/>
+			<point x="420" y="641"/>
+			<point x="424" y="679" type="curve" smooth="yes"/>
+			<point x="428" y="716"/>
+			<point x="410" y="736"/>
+			<point x="364" y="736" type="curve" smooth="yes"/>
+			<point x="316" y="736"/>
+			<point x="297" y="717"/>
+			<point x="293" y="680" type="curve" smooth="yes"/>
+			<point x="289" y="642"/>
+			<point x="308" y="622"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="337" y="523"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

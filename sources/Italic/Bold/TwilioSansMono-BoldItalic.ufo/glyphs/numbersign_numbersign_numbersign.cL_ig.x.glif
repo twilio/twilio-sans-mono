@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign_numbersign_numbersign.cLig.x" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-1075" y="157" type="line"/>
+			<point x="-905" y="157" type="line"/>
+			<point x="-942" y="0" type="line"/>
+			<point x="-829" y="0" type="line"/>
+			<point x="-793" y="157" type="line"/>
+			<point x="-560" y="157" type="line"/>
+			<point x="-597" y="0" type="line"/>
+			<point x="-485" y="0" type="line"/>
+			<point x="-448" y="157" type="line"/>
+			<point x="-215" y="157" type="line"/>
+			<point x="-252" y="0" type="line"/>
+			<point x="-140" y="0" type="line"/>
+			<point x="-103" y="157" type="line"/>
+			<point x="130" y="157" type="line"/>
+			<point x="93" y="0" type="line"/>
+			<point x="204" y="0" type="line"/>
+			<point x="241" y="157" type="line"/>
+			<point x="422" y="157" type="line"/>
+			<point x="437" y="267" type="line"/>
+			<point x="267" y="267" type="line"/>
+			<point x="304" y="424" type="line"/>
+			<point x="483" y="424" type="line"/>
+			<point x="498" y="535" type="line"/>
+			<point x="331" y="535" type="line"/>
+			<point x="366" y="684" type="line"/>
+			<point x="253" y="684" type="line"/>
+			<point x="218" y="535" type="line"/>
+			<point x="-14" y="535" type="line"/>
+			<point x="21" y="684" type="line"/>
+			<point x="-91" y="684" type="line"/>
+			<point x="-126" y="535" type="line"/>
+			<point x="-359" y="535" type="line"/>
+			<point x="-324" y="684" type="line"/>
+			<point x="-436" y="684" type="line"/>
+			<point x="-471" y="535" type="line"/>
+			<point x="-704" y="535" type="line"/>
+			<point x="-669" y="684" type="line"/>
+			<point x="-781" y="684" type="line"/>
+			<point x="-816" y="535" type="line"/>
+			<point x="-997" y="535" type="line"/>
+			<point x="-1012" y="424" type="line"/>
+			<point x="-842" y="424" type="line"/>
+			<point x="-879" y="267" type="line"/>
+			<point x="-1059" y="267" type="line"/>
+		</contour>
+		<contour>
+			<point x="-767" y="267" type="line"/>
+			<point x="-730" y="424" type="line"/>
+			<point x="-497" y="424" type="line"/>
+			<point x="-534" y="267" type="line"/>
+		</contour>
+		<contour>
+			<point x="-422" y="267" type="line"/>
+			<point x="-385" y="424" type="line"/>
+			<point x="-152" y="424" type="line"/>
+			<point x="-189" y="267" type="line"/>
+		</contour>
+		<contour>
+			<point x="-77" y="267" type="line"/>
+			<point x="-40" y="424" type="line"/>
+			<point x="193" y="424" type="line"/>
+			<point x="155" y="267" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

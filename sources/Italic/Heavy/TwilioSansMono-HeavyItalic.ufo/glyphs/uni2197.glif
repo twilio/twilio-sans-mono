@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2197" format="2">
+	<unicode hex="2197"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="105" y="59" type="line"/>
+			<point x="454" y="367" type="line"/>
+			<point x="423" y="161" type="line"/>
+			<point x="574" y="293" type="line"/>
+			<point x="619" y="610" type="line"/>
+			<point x="299" y="610" type="line"/>
+			<point x="149" y="479" type="line"/>
+			<point x="357" y="481" type="line"/>
+			<point x="7" y="173" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="7" y="171" angle="90"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 12:04:00 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+			<string>==|uni2196</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==|uni2196</string>
+		</dict>
+	</lib>
+</glyph>

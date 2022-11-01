@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="152" y="207" type="line"/>
+			<point x="152" y="169" type="line"/>
+			<point x="279" y="169" type="line"/>
+			<point x="279" y="41" type="line"/>
+			<point x="321" y="41" type="line"/>
+			<point x="321" y="169" type="line"/>
+			<point x="448" y="169" type="line"/>
+			<point x="448" y="207" type="line"/>
+			<point x="321" y="207" type="line"/>
+			<point x="321" y="334" type="line"/>
+			<point x="279" y="334" type="line"/>
+			<point x="279" y="207" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+		</dict>
+	</lib>
+</glyph>

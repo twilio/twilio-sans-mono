@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="2">
+	<unicode hex="0049"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="91" y="0" type="line"/>
+			<point x="509" y="0" type="line"/>
+			<point x="509" y="49" type="line"/>
+			<point x="328" y="49" type="line"/>
+			<point x="328" y="636" type="line"/>
+			<point x="509" y="636" type="line"/>
+			<point x="509" y="684" type="line"/>
+			<point x="91" y="684" type="line"/>
+			<point x="91" y="636" type="line"/>
+			<point x="273" y="636" type="line"/>
+			<point x="273" y="49" type="line"/>
+			<point x="91" y="49" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="301" y="0"/>
+	<anchor name="ogonek" x="508" y="0"/>
+	<anchor name="top" x="300" y="684"/>
+	<guideline x="398" y="268" angle="90"/>
+	<guideline x="31" y="0" angle="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.typemytype.robofont.guideline.showMeasurements.3GDehYF9gp</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.guideline.showMeasurements.3dkGYV7WR4</key>
+			<integer>1</integer>
+		</dict>
+	</lib>
+</glyph>

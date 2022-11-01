@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign_equal.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-510" y="262" type="line"/>
+			<point x="-517" y="214" type="line"/>
+			<point x="-403" y="214" type="line"/>
+			<point x="-454" y="0" type="line"/>
+			<point x="-401" y="0" type="line"/>
+			<point x="-351" y="214" type="line"/>
+			<point x="-196" y="214" type="line"/>
+			<point x="-246" y="0" type="line"/>
+			<point x="-196" y="0" type="line"/>
+			<point x="-145" y="214" type="line"/>
+			<point x="-21" y="214" type="line"/>
+			<point x="-14" y="262" type="line"/>
+			<point x="-134" y="262" type="line"/>
+			<point x="-93" y="436" type="line"/>
+			<point x="10" y="436" type="line"/>
+			<point x="17" y="485" type="line"/>
+			<point x="-81" y="485" type="line"/>
+			<point x="-34" y="684" type="line"/>
+			<point x="-86" y="684" type="line"/>
+			<point x="-133" y="485" type="line"/>
+			<point x="-288" y="485" type="line"/>
+			<point x="-241" y="684" type="line"/>
+			<point x="-292" y="684" type="line"/>
+			<point x="-339" y="485" type="line"/>
+			<point x="-455" y="485" type="line"/>
+			<point x="-462" y="436" type="line"/>
+			<point x="-351" y="436" type="line"/>
+			<point x="-392" y="262" type="line"/>
+		</contour>
+		<contour>
+			<point x="140" y="434" type="line"/>
+			<point x="534" y="434" type="line"/>
+			<point x="541" y="485" type="line"/>
+			<point x="147" y="485" type="line"/>
+		</contour>
+		<contour>
+			<point x="-340" y="262" type="line"/>
+			<point x="-299" y="436" type="line"/>
+			<point x="-144" y="436" type="line"/>
+			<point x="-185" y="262" type="line"/>
+		</contour>
+		<contour>
+			<point x="109" y="214" type="line"/>
+			<point x="503" y="214" type="line"/>
+			<point x="510" y="265" type="line"/>
+			<point x="116" y="265" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

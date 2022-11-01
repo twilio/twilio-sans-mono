@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anglebracketright" format="2">
+	<unicode hex="3009"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="69" y="-163" type="line"/>
+			<point x="171" y="-163" type="line"/>
+			<point x="470" y="315" type="line"/>
+			<point x="174" y="792" type="line"/>
+			<point x="72" y="792" type="line"/>
+			<point x="369" y="315" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+			<string>==|anglebracketleft</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==|anglebracketleft</string>
+		</dict>
+	</lib>
+</glyph>

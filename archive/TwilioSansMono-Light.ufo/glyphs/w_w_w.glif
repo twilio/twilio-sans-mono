@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w_w_w" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-136" y="0" type="line"/>
+			<point x="-39" y="461" type="line"/>
+			<point x="-35" y="461" type="line"/>
+			<point x="55" y="0" type="line"/>
+			<point x="125" y="0" type="line"/>
+			<point x="220" y="401" type="line"/>
+			<point x="224" y="401" type="line"/>
+			<point x="316" y="0" type="line"/>
+			<point x="393" y="0" type="line"/>
+			<point x="500" y="523" type="line"/>
+			<point x="450" y="523" type="line"/>
+			<point x="359" y="55" type="line"/>
+			<point x="354" y="55" type="line"/>
+			<point x="256" y="463" type="line"/>
+			<point x="188" y="463" type="line"/>
+			<point x="95" y="55" type="line"/>
+			<point x="90" y="55" type="line"/>
+			<point x="-3" y="523" type="line"/>
+			<point x="-71" y="523" type="line"/>
+			<point x="-166" y="55" type="line"/>
+			<point x="-171" y="55" type="line"/>
+			<point x="-264" y="463" type="line"/>
+			<point x="-332" y="463" type="line"/>
+			<point x="-427" y="55" type="line"/>
+			<point x="-432" y="55" type="line"/>
+			<point x="-525" y="523" type="line"/>
+			<point x="-593" y="523" type="line"/>
+			<point x="-688" y="55" type="line"/>
+			<point x="-693" y="55" type="line"/>
+			<point x="-784" y="463" type="line"/>
+			<point x="-854" y="463" type="line"/>
+			<point x="-952" y="55" type="line"/>
+			<point x="-958" y="55" type="line"/>
+			<point x="-1048" y="523" type="line"/>
+			<point x="-1100" y="523" type="line"/>
+			<point x="-996" y="0" type="line"/>
+			<point x="-919" y="0" type="line"/>
+			<point x="-823" y="401" type="line"/>
+			<point x="-818" y="401" type="line"/>
+			<point x="-728" y="0" type="line"/>
+			<point x="-658" y="0" type="line"/>
+			<point x="-561" y="461" type="line"/>
+			<point x="-557" y="461" type="line"/>
+			<point x="-467" y="0" type="line"/>
+			<point x="-397" y="0" type="line"/>
+			<point x="-300" y="401" type="line"/>
+			<point x="-296" y="401" type="line"/>
+			<point x="-206" y="0" type="line"/>
+		</contour>
+	</outline>
+	<guideline x="-642" y="89" angle="90" identifier="N29558z3vt"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

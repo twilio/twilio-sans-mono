@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk_large.rem" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="482" y="153" type="line"/>
+			<point x="537" y="248" type="line"/>
+			<point x="356" y="321" type="line"/>
+			<point x="538" y="394" type="line"/>
+			<point x="483" y="490" type="line"/>
+			<point x="328" y="368" type="line"/>
+			<point x="355" y="563" type="line"/>
+			<point x="245" y="563" type="line"/>
+			<point x="272" y="369" type="line"/>
+			<point x="117" y="490" type="line"/>
+			<point x="62" y="395" type="line"/>
+			<point x="245" y="321" type="line"/>
+			<point x="63" y="247" type="line"/>
+			<point x="118" y="151" type="line"/>
+			<point x="272" y="273" type="line"/>
+			<point x="246" y="78" type="line"/>
+			<point x="356" y="78" type="line"/>
+			<point x="328" y="273" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.2528,1,1</string>
+		</dict>
+	</lib>
+</glyph>

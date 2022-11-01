@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="2">
+	<unicode hex="201D"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="252" y="750" type="line"/>
+			<point x="161" y="466" type="line"/>
+			<point x="225" y="466" type="line"/>
+			<point x="373" y="750" type="line"/>
+		</contour>
+		<contour>
+			<point x="438" y="750" type="line"/>
+			<point x="347" y="466" type="line"/>
+			<point x="412" y="466" type="line"/>
+			<point x="559" y="750" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+			<string>==|quotedblleft</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==|quotedblleft</string>
+		</dict>
+	</lib>
+</glyph>

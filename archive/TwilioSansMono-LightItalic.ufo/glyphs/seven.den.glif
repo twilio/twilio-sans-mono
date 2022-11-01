@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.den" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="173" y="0" type="line"/>
+			<point x="223" y="0" type="line"/>
+			<point x="461" y="369" type="line"/>
+			<point x="466" y="410" type="line"/>
+			<point x="178" y="410" type="line"/>
+			<point x="164" y="307" type="line"/>
+			<point x="205" y="307" type="line"/>
+			<point x="215" y="373" type="line"/>
+			<point x="413" y="373" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

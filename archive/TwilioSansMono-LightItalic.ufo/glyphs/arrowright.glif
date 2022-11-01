@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowright" format="2">
+	<unicode hex="2192"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="327" y="591" type="line"/>
+			<point x="500" y="390" type="line"/>
+			<point x="66" y="390" type="line"/>
+			<point x="59" y="340" type="line"/>
+			<point x="494" y="340" type="line"/>
+			<point x="264" y="140" type="line"/>
+			<point x="333" y="140" type="line"/>
+			<point x="590" y="365" type="line"/>
+			<point x="396" y="591" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+			<string>==|arrowleft</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==|arrowleft</string>
+		</dict>
+	</lib>
+</glyph>

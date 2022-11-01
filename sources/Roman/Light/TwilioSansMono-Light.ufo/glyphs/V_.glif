@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="2">
+	<unicode hex="0056"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="265" y="-3" type="line"/>
+			<point x="336" y="-3" type="line"/>
+			<point x="560" y="684" type="line"/>
+			<point x="500" y="684" type="line"/>
+			<point x="301" y="55" type="line"/>
+			<point x="100" y="684" type="line"/>
+			<point x="40" y="684" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="312" y="0"/>
+	<anchor name="ogonek" x="598" y="0"/>
+	<anchor name="overlap" x="301" y="684"/>
+	<anchor name="top" x="308" y="684"/>
+	<guideline x="512" y="720" angle="0"/>
+	<guideline x="670" y="720" angle="270"/>
+	<guideline x="377" y="0" angle="67.5159"/>
+	<guideline x="19" y="720" angle="270"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==|V</string>
+			<key>com.typemytype.robofont.guideline.showMeasurements.UhW5k082Ar</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.guideline.showMeasurements.x7cLqu0DQ3</key>
+			<integer>1</integer>
+		</dict>
+	</lib>
+</glyph>

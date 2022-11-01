@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+	<unicode hex="0069"/>
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="372" y="650" type="curve" smooth="yes"/>
+			<point x="408" y="650"/>
+			<point x="420" y="666"/>
+			<point x="423" y="695" type="curve" smooth="yes"/>
+			<point x="426" y="722"/>
+			<point x="412" y="738"/>
+			<point x="379" y="738" type="curve" smooth="yes"/>
+			<point x="342" y="738"/>
+			<point x="330" y="722"/>
+			<point x="327" y="694" type="curve" smooth="yes"/>
+			<point x="324" y="666"/>
+			<point x="338" y="650"/>
+		</contour>
+		<contour>
+			<point x="56" y="0" type="line"/>
+			<point x="498" y="0" type="line"/>
+			<point x="506" y="48" type="line"/>
+			<point x="315" y="48" type="line"/>
+			<point x="382" y="523" type="line"/>
+			<point x="130" y="523" type="line"/>
+			<point x="123" y="475" type="line"/>
+			<point x="321" y="475" type="line"/>
+			<point x="261" y="48" type="line"/>
+			<point x="63" y="48" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="ogonek" x="498" y="0"/>
+	<guideline x="104" y="702" angle="0"/>
+	<guideline x="109" y="748" angle="0"/>
+	<guideline x="227" y="702" angle="82"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:40:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>

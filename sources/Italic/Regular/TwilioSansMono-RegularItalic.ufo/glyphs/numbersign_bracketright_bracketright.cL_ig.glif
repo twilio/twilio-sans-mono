@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign_bracketright_bracketright.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-317" y="728" type="line"/>
+			<point x="-75" y="728" type="line"/>
+			<point x="-191" y="-99" type="line"/>
+			<point x="-434" y="-99" type="line"/>
+			<point x="-443" y="-163" type="line"/>
+			<point x="-121" y="-163" type="line"/>
+			<point x="14" y="792" type="line"/>
+			<point x="-308" y="792" type="line"/>
+		</contour>
+		<contour>
+			<point x="91" y="728" type="line"/>
+			<point x="396" y="728" type="line"/>
+			<point x="280" y="-99" type="line"/>
+			<point x="-26" y="-99" type="line"/>
+			<point x="-34" y="-163" type="line"/>
+			<point x="350" y="-163" type="line"/>
+			<point x="485" y="792" type="line"/>
+			<point x="101" y="792" type="line"/>
+		</contour>
+		<contour>
+			<point x="-994" y="236" type="line"/>
+			<point x="-1004" y="168" type="line"/>
+			<point x="-899" y="168" type="line"/>
+			<point x="-939" y="0" type="line"/>
+			<point x="-867" y="0" type="line"/>
+			<point x="-827" y="168" type="line"/>
+			<point x="-686" y="168" type="line"/>
+			<point x="-726" y="0" type="line"/>
+			<point x="-656" y="0" type="line"/>
+			<point x="-616" y="168" type="line"/>
+			<point x="-449" y="168" type="line"/>
+			<point x="-439" y="236" type="line"/>
+			<point x="-600" y="236" type="line"/>
+			<point x="-547" y="459" type="line"/>
+			<point x="-407" y="459" type="line"/>
+			<point x="-398" y="528" type="line"/>
+			<point x="-531" y="528" type="line"/>
+			<point x="-494" y="684" type="line"/>
+			<point x="-566" y="684" type="line"/>
+			<point x="-602" y="528" type="line"/>
+			<point x="-743" y="528" type="line"/>
+			<point x="-707" y="684" type="line"/>
+			<point x="-777" y="684" type="line"/>
+			<point x="-814" y="528" type="line"/>
+			<point x="-929" y="528" type="line"/>
+			<point x="-938" y="459" type="line"/>
+			<point x="-831" y="459" type="line"/>
+			<point x="-883" y="236" type="line"/>
+		</contour>
+		<contour>
+			<point x="-812" y="236" type="line"/>
+			<point x="-759" y="459" type="line"/>
+			<point x="-618" y="459" type="line"/>
+			<point x="-670" y="236" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 07:19:57 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

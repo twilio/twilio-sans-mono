@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelow" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="300" y="-149" type="curve" smooth="yes"/>
+			<point x="343" y="-149"/>
+			<point x="360" y="-130"/>
+			<point x="360" y="-93" type="curve" smooth="yes"/>
+			<point x="360" y="-56"/>
+			<point x="343" y="-38"/>
+			<point x="300" y="-38" type="curve" smooth="yes"/>
+			<point x="257" y="-38"/>
+			<point x="239" y="-56"/>
+			<point x="239" y="-93" type="curve" smooth="yes"/>
+			<point x="239" y="-130"/>
+			<point x="257" y="-149"/>
+		</contour>
+	</outline>
+	<anchor name="bottom" x="301" y="0"/>
+</glyph>

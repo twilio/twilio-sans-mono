@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen_asciitilde.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-376" y="288" type="line"/>
+			<point x="-16" y="288" type="line"/>
+			<point x="-5" y="335"/>
+			<point x="16" y="362"/>
+			<point x="56" y="362" type="curve" smooth="yes"/>
+			<point x="130" y="362"/>
+			<point x="143" y="227"/>
+			<point x="247" y="227" type="curve" smooth="yes"/>
+			<point x="310" y="227"/>
+			<point x="363" y="265"/>
+			<point x="380" y="391" type="curve"/>
+			<point x="327" y="391" type="line"/>
+			<point x="316" y="312"/>
+			<point x="294" y="277"/>
+			<point x="249" y="277" type="curve" smooth="yes"/>
+			<point x="178" y="277"/>
+			<point x="163" y="413"/>
+			<point x="57" y="413" type="curve" smooth="yes"/>
+			<point x="6" y="413"/>
+			<point x="-31" y="384"/>
+			<point x="-50" y="339" type="curve"/>
+			<point x="-369" y="339" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 16:40:13 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashlong" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="468" y="708" type="line"/>
+			<point x="413" y="617" type="line"/>
+			<point x="409" y="598" type="line"/>
+			<point x="123" y="126" type="line"/>
+			<point x="96" y="104" type="line"/>
+			<point x="17" y="-24" type="line"/>
+			<point x="132" y="-24" type="line"/>
+			<point x="187" y="67" type="line"/>
+			<point x="193" y="91" type="line"/>
+			<point x="473" y="552" type="line"/>
+			<point x="505" y="581" type="line"/>
+			<point x="583" y="708" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_center" x="303" y="346"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

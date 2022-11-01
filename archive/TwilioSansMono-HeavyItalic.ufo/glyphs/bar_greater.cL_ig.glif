@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar_greater.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-367" y="-79" type="line"/>
+			<point x="-187" y="-79" type="line"/>
+			<point x="357" y="208" type="line"/>
+			<point x="387" y="422" type="line"/>
+			<point x="-77" y="708" type="line"/>
+			<point x="-257" y="708" type="line"/>
+		</contour>
+		<contour>
+			<point x="-106" y="518" type="line"/>
+			<point x="219" y="324" type="line"/>
+			<point x="-159" y="130" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-27 15:37:46 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

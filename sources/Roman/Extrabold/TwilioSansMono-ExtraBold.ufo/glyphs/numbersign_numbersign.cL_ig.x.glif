@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign_numbersign.cLig.x" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-514" y="153" type="line"/>
+			<point x="-387" y="153" type="line"/>
+			<point x="-402" y="0" type="line"/>
+			<point x="-276" y="0" type="line"/>
+			<point x="-261" y="153" type="line"/>
+			<point x="-79" y="153" type="line"/>
+			<point x="-94" y="0" type="line"/>
+			<point x="32" y="0" type="line"/>
+			<point x="46" y="153" type="line"/>
+			<point x="229" y="153" type="line"/>
+			<point x="214" y="0" type="line"/>
+			<point x="339" y="0" type="line"/>
+			<point x="354" y="153" type="line"/>
+			<point x="492" y="153" type="line"/>
+			<point x="492" y="276" type="line"/>
+			<point x="366" y="276" type="line"/>
+			<point x="379" y="413" type="line"/>
+			<point x="515" y="413" type="line"/>
+			<point x="515" y="537" type="line"/>
+			<point x="390" y="537" type="line"/>
+			<point x="404" y="684" type="line"/>
+			<point x="279" y="684" type="line"/>
+			<point x="265" y="537" type="line"/>
+			<point x="83" y="537" type="line"/>
+			<point x="96" y="684" type="line"/>
+			<point x="-29" y="684" type="line"/>
+			<point x="-43" y="537" type="line"/>
+			<point x="-226" y="537" type="line"/>
+			<point x="-212" y="684" type="line"/>
+			<point x="-337" y="684" type="line"/>
+			<point x="-351" y="537" type="line"/>
+			<point x="-490" y="537" type="line"/>
+			<point x="-490" y="413" type="line"/>
+			<point x="-363" y="413" type="line"/>
+			<point x="-376" y="276" type="line"/>
+			<point x="-514" y="276" type="line"/>
+		</contour>
+		<contour>
+			<point x="-250" y="276" type="line"/>
+			<point x="-237" y="413" type="line"/>
+			<point x="-54" y="413" type="line"/>
+			<point x="-67" y="276" type="line"/>
+		</contour>
+		<contour>
+			<point x="58" y="276" type="line"/>
+			<point x="71" y="413" type="line"/>
+			<point x="254" y="413" type="line"/>
+			<point x="241" y="276" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>

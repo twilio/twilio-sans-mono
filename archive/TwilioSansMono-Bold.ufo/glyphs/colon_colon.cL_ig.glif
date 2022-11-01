@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon_colon.cLig" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="-218" y="-12" type="curve" smooth="yes"/>
+			<point x="-150" y="-12"/>
+			<point x="-115" y="14"/>
+			<point x="-115" y="82" type="curve" smooth="yes"/>
+			<point x="-115" y="149"/>
+			<point x="-150" y="174"/>
+			<point x="-218" y="174" type="curve" smooth="yes"/>
+			<point x="-286" y="174"/>
+			<point x="-321" y="149"/>
+			<point x="-321" y="82" type="curve" smooth="yes"/>
+			<point x="-321" y="14"/>
+			<point x="-286" y="-12"/>
+		</contour>
+		<contour>
+			<point x="-218" y="343" type="curve" smooth="yes"/>
+			<point x="-150" y="343"/>
+			<point x="-115" y="369"/>
+			<point x="-115" y="437" type="curve" smooth="yes"/>
+			<point x="-115" y="504"/>
+			<point x="-150" y="529"/>
+			<point x="-218" y="529" type="curve" smooth="yes"/>
+			<point x="-286" y="529"/>
+			<point x="-321" y="504"/>
+			<point x="-321" y="437" type="curve" smooth="yes"/>
+			<point x="-321" y="369"/>
+			<point x="-286" y="343"/>
+		</contour>
+		<contour>
+			<point x="218" y="-12" type="curve" smooth="yes"/>
+			<point x="286" y="-12"/>
+			<point x="321" y="14"/>
+			<point x="321" y="82" type="curve" smooth="yes"/>
+			<point x="321" y="149"/>
+			<point x="286" y="174"/>
+			<point x="218" y="174" type="curve" smooth="yes"/>
+			<point x="150" y="174"/>
+			<point x="115" y="149"/>
+			<point x="115" y="82" type="curve" smooth="yes"/>
+			<point x="115" y="14"/>
+			<point x="150" y="-12"/>
+		</contour>
+		<contour>
+			<point x="218" y="343" type="curve" smooth="yes"/>
+			<point x="286" y="343"/>
+			<point x="321" y="369"/>
+			<point x="321" y="437" type="curve" smooth="yes"/>
+			<point x="321" y="504"/>
+			<point x="286" y="529"/>
+			<point x="218" y="529" type="curve" smooth="yes"/>
+			<point x="150" y="529"/>
+			<point x="115" y="504"/>
+			<point x="115" y="437" type="curve" smooth="yes"/>
+			<point x="115" y="369"/>
+			<point x="150" y="343"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2022-09-26 11:34:47 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0.8323,0.4732,1</string>
+		</dict>
+	</lib>
+</glyph>
