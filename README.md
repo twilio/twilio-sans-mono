@@ -1,33 +1,27 @@
-# Twilio Sans Mono
+![Twilio Sans Mono written in Twilio Sans Mono on a red background](./screenshots//mono-header.svg)
 
 Twilio worked very closely with the type foundry, Sharp Type over the course of two years to develop a welcoming and adaptable typeface designed specifically for Twilio, Twilio Sans. Twilio Sans is a super family composed of display fonts, text fonts, and mono fonts.
 
 Twilio Sans Mono is a distinct programming font designed to fit the needs of every developer — no matter their code editor, no matter their preferred programming language, and no matter their project. You can download Twilio Sans Mono for free today and use it in your favorite code editor.
 
-## Variants
+## Features
+
+### Variants
 
 Twilio Sans Mono contains eight weights, each with roman and true italics:
 
-* Twilio Sans Mono Light
-* Twilio Sans Mono Light Italic
-* Twilio Sans Mono Medium
-* Twilio Sans Mono Medium Italic
-* Twilio Sans Mono Regular
-* Twilio Sans Mono Regular Italic
-* Twilio Sans Mono Retina
-* Twilio Sans Mono Retina Italic
-* Twilio Sans Mono Semibold
-* Twilio Sans Mono Semibold Italic
-* Twilio Sans Mono Bold
-* Twilio Sans Mono Bold Italic
-* Twilio Sans Mono Extrabold
-* Twilio Sans Mono Extrabold Italic
-* Twilio Sans Mono Heavy
-* Twilio Sans Mono Heavy Italic
+![Screenshot of the included weights of Light, Medium, Regular, Retina, Semibold, Bold, Extrabold and Heavy as well as their respective italics versions](./screenshots/mono-weights-light.svg#gh-light-mode-only)
+![Screenshot of the included weights of Light, Medium, Regular, Retina, Semibold, Bold, Extrabold and Heavy as well as their respective italics versions](./screenshots/mono-weights-dark.svg#gh-dark-mode-only)
 
-## Screenshots
+### Coding Ligatures
 
-<!-- ![alt text](https://screenshot-link.com/img.jpg) -->
+![Screenshot of the included ligatures](./screenshots/mono-coding-ligatures-light.svg#gh-light-mode-only)
+![Screenshot of the included ligatures](./screenshots/mono-coding-ligatures-dark.svg#gh-dark-mode-only)
+
+### Arrows
+
+![Screenshot of the included arrow ligatures that are included in Twilio Sans Mono](./screenshots/mono-arrows-light.svg#gh-light-mode-only)
+![Screenshot of the included arrow ligatures that are included in Twilio Sans Mono](./screenshots/mono-arrows-dark.svg#gh-dark-mode-only)
 
 ## Usage Instructions
 
